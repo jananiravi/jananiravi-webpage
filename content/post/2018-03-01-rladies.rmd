@@ -14,7 +14,6 @@ output:
 summary: "Welcome to our new chapter: *Who we are & What we do.*"
 ---
 
-
 ## *Welcome to our new chapter!*
 
 ## What we're about
