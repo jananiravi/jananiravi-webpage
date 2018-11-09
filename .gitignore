@@ -8,7 +8,9 @@
 .DS_Store?
 Icon
 Icon?
-
+.Icon
+.Icon?
+Icon\r
 
 # Example code in package build process
 *-Ex.R
