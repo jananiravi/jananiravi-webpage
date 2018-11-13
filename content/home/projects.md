@@ -5,10 +5,10 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Projects"
-subtitle = ""
+subtitle = "*Projects & People*"
 
 # Order that this section will appear in.
-weight = 50
+weight = 5
 
 # Content.
 # Display content from the following folder.
@@ -25,7 +25,7 @@ view = 1
 widget_layout = 0
 
 # For Showcase view, flip alternate rows?
-flip_alt_rows = false
+flip_alt_rows = true
 
 # Filter toolbar.
 
@@ -41,12 +41,12 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
+  name = "Academic"
+  tag = "research"
 
 [[filter]]
-  name = "Other"
-  tag = "Demo"
+  name = "Non-academic"
+  tag = "blogs"
 
 +++
 

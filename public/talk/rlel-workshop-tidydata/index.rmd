@@ -1,0 +1,28 @@
+---
+title: R-Ladies East Lansing | Workshop on Intro to Tidy Data w/ R
+author: Janani Ravi
+date: '2018-11-05'
+slug: rlel-workshop-tidydata
+categories:
+  - R-Ladies
+  - Resources
+tags:
+  - R
+  - rladies
+  - datascience
+  - software-tools
+image:
+  caption: ''
+  focal_point: ''
+selected: true
+time_start: 2018-11-05T18:00:00
+time_end: 2018-11-05T20:00:00
+abstract: ""
+abstract_short: ""
+event: "R-Ladies East Lansing | November 5, 2018"
+event_url: "https://rladies-eastlansing.github.io"
+location: "East Lansing, MI"
+---
+<img src="https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201811-Meetup-flyer.png?raw=true" width="60%" />
+
+Workshop material: [GitHub](https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181105-workshop-tidydata) • [Google Drive](https://bit.ly/rlel-20181105)

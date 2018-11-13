@@ -6,11 +6,11 @@ date = 2017-09-20T00:00:00
 # Activate this widget? true/false
 active = true
 
-title = "Skills"
-subtitle = ""
+title = "Interests"
+subtitle = "*Academic & otherwise!*"
 
 # Order that this section will appear in.
-weight = 7
+weight = 2
 
 # Showcase personal skills or business features.
 # 
@@ -22,21 +22,46 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Comp/Math Biology"
+  # description = "80%"
+
+[[feature]]
+  icon = "microscope"
+  icon_pack = "fas"
+  name = "Host-pathogen Biology"
+  # description = "80%"
+
+# [[feature]]
+#   icon = "diagnoses"
+#   icon_pack = "fas"
+#   name = "Translational Research"
+#   # description = "80%"
+
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Data Science & R"
+  # description = "90%"
   
+# [[feature]]
+#   icon = "chart-line"
+#   icon_pack = "fas"
+#   name = "Mathematical biology"
+#   # description = "80%" 
+
 [[feature]]
-  icon = "chart-line"
+  icon = "book-open"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Reading #nonfiction"
+  # description = "90%"
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "music"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Music #vocal #keyboard"
+  # description = "90%"
 
 +++
