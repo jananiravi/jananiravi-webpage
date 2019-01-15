@@ -101,13 +101,15 @@ enableGitInfo = false
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
   color_theme = "dark"
+  # Enable users to switch between day and night mode?
+  day_night = true
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = "Janani Ravi"
+  description = "Janani Ravi | jananiravi.github.io"
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""
@@ -296,7 +298,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "//drive.google.com/file/d/1exIcXd1h5KGTOCbhy8Hsr9MpPTI-l9MA/view?usp=sharing" # "files/cv.pdf"
+    link = "files/cv.pdf" # "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

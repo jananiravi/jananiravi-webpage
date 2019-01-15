@@ -8,12 +8,13 @@ date = 2016-04-20T00:00:00
 weight = 1
 
 # List your academic interests.
-# [interests]
-#   interests = [
-#     "Artificial Intelligence",
-#     "Computational Linguistics",
-#     "Information Retrieval"
-#   ]
+[interests]
+  interests = [
+    "Computational/Mathematical Biology",
+    "Host-pathogen Biology",
+    "Translational Research",
+    "Data Science & R"
+  ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
