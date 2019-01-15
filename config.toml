@@ -46,6 +46,7 @@ enableGitInfo = false
   hrefTargetBlank = true  # `true` opens external links in a new tab.
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
+  extensions = ["backslashLineBreak"]
 
 [params]
   # AUTHOR SETUP
@@ -64,12 +65,19 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "janani@msu.edu"
-  address = "Pathobiology and Diagnostic Investigation,\n784 Wilson Rd, Room G304,\nMichigan State University,\nEast Lansing, 48824, USA"
-  # office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  address = "Pathobiology and Diagnostic Investigation,<br>784 Wilson Rd, Room G304,<br>Michigan State University,<br>East Lansing, 48824, USA"
+  # office_hours = """
+  # Monday 10:00 to 13:00<br>
+  # Wednesday 09:00 to 10:00<br>
+  # Otherwise email to book an appointment
+  # """
   phone = "+1 517 353 5491"
   skype = "jananiravi"
   telegram = ""
   keybase = ""  # Your keybase.io username.
+
+  # Enter an optional link for booking appointments (e.g. calendly.com).
+  appointment_url = ""
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -314,24 +322,29 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
+  name = "News"
+  url = "#news"
+  weight = 2
+
+[[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "Posts"
   url = "#posts"
-  weight = 4
+  weight = 5
 
   [[menu.main]]
   name = "Talks"
   url = "#talks"
-  weight = 5
+  weight = 6
 
 #[[menu.main]]
 #  name = "Tutorials"
@@ -341,7 +354,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
