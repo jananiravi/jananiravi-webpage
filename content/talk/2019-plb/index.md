@@ -1,6 +1,6 @@
 +++
 title = "Tidyverse workshop"
-date = 2019-02-13T00:00:00  # Schedule page publish date.
+date = 2019-01-15T00:00:00  # Schedule page publish date.
 draft = false
 # slug = 2019-plb # doesn't work in hugo academic v3.1
 

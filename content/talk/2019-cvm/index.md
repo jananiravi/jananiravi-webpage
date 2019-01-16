@@ -1,6 +1,6 @@
 +++
 title = "Simple rules to make an effective scientific presentation"
-date = 2019-01-24T00:00:00  # Schedule page publish date.
+date = 2019-01-15T00:00:00  # Schedule page publish date.
 draft = false
 # slug = 2019-cvm # doesn't work in hugo academic v3.1
 

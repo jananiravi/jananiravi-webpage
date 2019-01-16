@@ -1,5 +1,5 @@
 +++
-title = "R-Ladies East Lansing: 2018, Year in Review"
+title = "2018: Year in Review | RLEL"
 subtitle = "Some accomplishments from 2018 & announcements for 2019! :tada:"
 
 date = 2019-01-01T00:00:00
@@ -13,7 +13,7 @@ tags = ["rladies", "software-tools", "blogs"]
 summary = "Some accomplishments from 2018 & announcements for 2019!"
 # Do the following work? they work in rmd files!
 # categories = "R-Ladies"
-# slug = "rlel-2018"
+slug = "rlel-2018"
 toc = true
 
 # Projects (optional).
@@ -27,12 +27,13 @@ toc = true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
+  # src="featured.png"
   # Caption (optional)
   caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Center"
 
   # Show image only in page previews?
   preview_only = false

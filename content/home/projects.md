@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Projects"
-subtitle = "*Projects & People*"
+subtitle = "*Some ongoing & [past](/dynamical-systems) projects*"
 
 # Order that this section will appear in.
 weight = 4
@@ -13,7 +13,7 @@ weight = 4
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+folder = "projects"
 
 # View.
 # Customize how projects are displayed.
@@ -36,17 +36,17 @@ filter_default = 0
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-[[filter]]
-  name = "All"
-  tag = "*"
-
-[[filter]]
-  name = "Academic"
-  tag = "research"
-
-[[filter]]
-  name = "Non-academic"
-  tag = "blogs"
+# [[filter]]
+#   name = "All"
+#   tag = "*"
+# 
+# [[filter]]
+#   name = "Academic"
+#   tag = "research"
+# 
+# [[filter]]
+#   name = "Non-academic"
+#   tag = "blogs"
 
 +++
 

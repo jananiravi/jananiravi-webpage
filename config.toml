@@ -127,7 +127,7 @@ enableGitInfo = false
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = "jananiravi-worklogo.png" #bookhat-profilepic.jpg
+  logo = "jananiravi-worklogo-grey.png" #bookhat-profilepic.jpg
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -306,7 +306,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "files/cv.pdf" # "files/cv.pdf"
+    link = "files/jananiravi-cv.pdf" # "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -352,9 +352,14 @@ enableGitInfo = false
 #  weight = 5
 
 [[menu.main]]
+  name = "Join Us"
+  url = "/joinus"
+  weight = 7
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 8
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

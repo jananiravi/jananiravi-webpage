@@ -20,12 +20,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-title = "Join the team!"
+title = "The team grows!"
 organization = "Hiring Graduate/Undergraduate students & Visiting scientists!"
-#certificate_url = "https://www.jananiravi.github.io/post/2019/joinus"
+#certificate_url = ""
 date_start = "2019-01-15"
 date_end = ""
-description = "We are looking for  highly motivated and quantitatively-minded undergraduate & graduate (MS) students to work on a research project developing computational evolutionary approaches to accelerate drug-/vaccine-target discovery against infectious diseases. Read more [here](//post/2019/joinus-2019)."
+description = """
+We are looking for  highly motivated and quantitatively-minded undergraduate & graduate (MS) students to work on a research project developing computational evolutionary approaches to accelerate drug-/vaccine-target discovery against infectious diseases. Read more [here](/joinus).
+
+— _Lauren Sosinski, an MSU undergraduate researcher, just joined us!_
+"""
 
 [[item]]
 title = "University grant funded!"
@@ -37,11 +41,11 @@ description = "Awarded the Harvey J Fiege Fund from the [College of Veterinary M
 
 
 [[item]]
-title = "[2018, Year in Review](https://jananiravi.github.io/post/2019/rlel-2018)"
+title = "RLEL: 6 months & counting! :tada:"
 organization = "R-Ladies East Lansing"
 #certificate_url = "https://rladies-eastlansing.github.io"
 date_start = "2019-01-10"
 date_end = ""
-description = "A fantastic 6 months of our newly founded [R-Ladies East Lansing](https://rladies-eastlansing.github.io) chapter!"
+description = "Celebrating a fantastic first 6 months of our newly founded [R-Ladies East Lansing](https://rladies-eastlansing.github.io) chapter: [2018, Year in Review](https://www.jananiravi.github.io/post/2019/rlel-2018)!"
 
 +++
