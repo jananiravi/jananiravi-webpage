@@ -1,21 +1,50 @@
----
-title: 'Join us!'
-author: Janani Ravi
-date: '2019-01-15'
-# categories:
-#   - R-Ladies
-tags:
-  - jobs
-  - evolution
-  - datascience
-  - bioinformatics
-  - R
-# slug: joinus-2019
-output:
-  blogdown::html_page:
-    toc: true
-summary: "Looking for undergrads, graduate students & visiting scientists!"
----
++++
+title = "Join us!"
+subtitle = "Looking for undergrads, graduate students & visiting scientists!"
+
+date = 2019-01-15T00:00:00
+lastmod = 2019-01-25T00:00:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Janani Ravi"]
+summary = "Looking for undergrads, graduate students & visiting scientists!"
+
+tags = ["jobs", "evolution", "datascience", "bioinformatics", "R"]
+
+# Do the following work? they work in rmd files!
+# categories = "R-Ladies"
+# slug = "joinus"
+toc = true
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+# projects = []
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder. 
+[image]
+# src="featured.png"
+# Caption (optional)
+# caption = ""
+
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+focal_point = "Center"
+
+# Show image only in page previews?
+preview_only = true
+
+# Set captions for image gallery.
+# [[gallery_item]]
+# album = "gallery"
+# image = "" # 20180725-kickoff-group.jpg
+# caption = ""
++++
 
 # Research program
 Our research involves developing computational approaches that can leverage large-scale genomic data to gain actionable insights into infectious disease biology.
@@ -28,7 +57,7 @@ iii) Developing tools and resources for seamlessly relating sequence, structure,
 # Keywords
 Computational Biology | Bioinformatics | Phylogenetics & Molecular Evolution | Comparative pathogenomics | Molecular drug/vaccine discovery | Data Analysis & Visualization
 
-# Join us
+# Open positions
 ## Undergraduate Student Research
 We are looking for two highly motivated and quantitatively-minded undergraduate students to work on a research project developing computational approaches to accelerate drug-/vaccine-target discovery against infectious diseases.
 We are happy to train them in many aspects of data-intensive biology. A background in bioinformatics, computational biology, statistics/biostatistics, computer science, genetics, or related fields would be a perfect fit. Having programming experience in R, Python, Perl, and/or C/C++ is a huge plus.
