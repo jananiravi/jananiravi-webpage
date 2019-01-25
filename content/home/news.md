@@ -46,6 +46,6 @@ organization = "R-Ladies East Lansing"
 #certificate_url = "https://rladies-eastlansing.github.io"
 date_start = "2019-01-10"
 date_end = ""
-description = "Celebrating a fantastic first 6 months of our newly founded [R-Ladies East Lansing](https://rladies-eastlansing.github.io) chapter: [2018, Year in Review](https://www.jananiravi.github.io/post/2019/rlel-2018)!"
+description = "Celebrating a fantastic first 6 months of our newly founded [R-Ladies East Lansing](https://rladies-eastlansing.github.io) chapter: [2018, Year in Review](https://jananiravi.github.io/post/2019/rlel-2018)!"
 
 +++
