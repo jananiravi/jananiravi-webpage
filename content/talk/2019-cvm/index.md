@@ -17,7 +17,7 @@ abstract = ""
 abstract_short = " "
 
 # Name of event and optional event URL.
-event = "CMIB seminar @CVM"
+event = "CMIB seminar @CVM, MSU"
 event_url = "https://cvm.msu.edu/cmibnews/cmib-research-forums-spring-2019-1130am-100pm-162-fst"
 
 # Location of event.
@@ -46,11 +46,11 @@ categories = ["Resources"] # valid in v3.1?
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "" #example-slides
+slides = "" #example-slides #20190124-Simple_rules_effective_scientific_presentation-JananiRavi.pdf
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://docs.google.com/presentation/d/e/2PACX-1vQpoo_ukuo94aqHY9hmAI8IfFewaTG7OWRjGM5VEDD2_DuQF9cQ4nL6gTW8O79mE6dCpwN3U5_a0cYC/pub?start=false&loop=false&delayms=10000&slide=id.g4e42a6b872_0_73"
 url_video = ""
 url_code = ""
 
