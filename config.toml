@@ -49,7 +49,11 @@ enableGitInfo = false
   extensions = ["backslashLineBreak"]
 
 [params]
-  # AUTHOR SETUP
+  # add github edit https://bookdown.org/yihui/blogdown/templates.html
+  GithubEdit = "https://github.com/jananiravi/jananiravi-webpage/edit/master/content/"
+  GithubSource = "https://github.com/jananiravi/jananiravi-webpage/blob/master/content/"
+
+# AUTHOR SETUP
 
   # Your details.
   name = "Janani Ravi"
@@ -272,7 +276,7 @@ enableGitInfo = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "envelope"
+    icon = "paper-plane"
     icon_pack = "fas"
     link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
