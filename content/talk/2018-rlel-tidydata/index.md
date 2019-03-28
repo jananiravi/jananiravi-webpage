@@ -52,7 +52,7 @@ slides = "" #example-slides
 url_pdf = ""
 url_slides = "https://bit.ly/rlel-20181105"
 url_video = ""
-url_code = ""
+url_code = "https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181105-workshop-tidydata"
 
 # Does the content use math formatting?
 math = true

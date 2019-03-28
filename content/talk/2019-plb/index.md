@@ -50,9 +50,10 @@ slides = "" #example-slides
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://docs.google.com/presentation/d/e/2PACX-1vSzZXYQdOAHuaKNcM4l0Rrvdccjrnfq4g58cpZdktV29PvwJM5VycJBxWcm_pyCTblJ46VfFOoTsztQ/pub?start=false&loop=false&delayms=3000"
 url_video = ""
-url_code = ""
+url_code = "https://drive.google.com/open?id=1j1e1XWT0jTiSzloQQezdbflFnsiwPDBZ"
+url_html= "https://drive.google.com/open?id=16flap5jEjwNWb1f7u4j8g7aN4mRZB_j9"
 
 # Does the content use math formatting?
 math = true
