@@ -10,7 +10,7 @@ draft = false
 authors = ["Janani Ravi"]
 summary = "Computational Pathogenomics Group"
 
-tags = ["jobs", "evolution", "datascience", "bioinformatics", "R"]
+tags = ["evolution", "datascience", "bioinformatics", "R", "cpathogeno", "group"]
 
 # Do the following work? they work in rmd files!
 # categories = "R-Ladies"

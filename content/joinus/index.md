@@ -1,9 +1,9 @@
 +++
 title = "Join us!"
-subtitle = "Looking for undergrads, graduate students & visiting scientists!"
+subtitle = "We study evolutionary and translational aspects of pathobiology. [Computational Pathogenomics Group](//jananiravi.github.io/group)"
 
 date = 2019-01-15T00:00:00
-lastmod = 2019-01-25T00:00:00
+lastmod = 2019-03-25T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

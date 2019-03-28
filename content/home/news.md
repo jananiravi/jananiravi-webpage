@@ -38,7 +38,7 @@ Deadline for poster registration: **April 1, 2019**.
 
 [[item]]
 title = "The team grows!"
-organization = ""
+organization = "[~Group](//jananiravi.github.io/group)"
 #certificate_url = ""
 date_start = "2019-02-15"
 date_end = ""
