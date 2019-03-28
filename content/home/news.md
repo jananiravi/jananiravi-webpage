@@ -21,17 +21,17 @@ date_format = "Jan 2006"
 
 [[item]]
 title = "Women in Data Science East Lansing @MSU is here!"
-organization = "[WiDS2019 Wiki](https://github.com/rladies-eastlansing/WiDS2019/wiki)"
+organization = "[Event Details](https://github.com/rladies-eastlansing/WiDS2019/wiki)"
 #certificate_url = ""
 date_start = "2019-03-15"
 date_end = "2019-04-12"
 description = """
-**Event Details**
-**When?** April 12, 2019, 1130a–5p
-**Where?** College of Natural Sciences, Michigan State University
+**_Women in Data Science East Lansing @MSU 2019_** <br>
+**When?** April 12, 2019, 1130a–5p <br>
+**Where?** Natural Sciences Bldg, MSU
 ([288 Farm Ln, East Lansing, MI 48824](https://maps.msu.edu/interactive/index.php?location=UB8Z))
 
-[REGISTER here!](https://goo.gl/forms/vBQansRtMtev5eMt1) to attend, present a poster and/or a lightning talk! Lunch provided for registered attendees only.
+[REGISTER HERE](https://goo.gl/forms/vBQansRtMtev5eMt1) to attend, present a poster and/or a lightning talk! Lunch provided for registered attendees only.
 
 Deadline for poster registration: **April 1, 2019**.
 """
@@ -43,8 +43,11 @@ organization = ""
 date_start = "2019-02-15"
 date_end = ""
 description = """
-— We now have 4 new undergrads working on [computational pathogenomics](https://github.com/cpathogeno) & drug repurposing of infectious diseases:
-_[Lauren Sosinski](https://twitter.com/sosinsk7), Phil Calhoun, Samuel Chen, and [Phoebe Tuyishime](https://www.canr.msu.edu/people/phoebe-tuyishime)!_
+We now have 4 new undergrads working on [computational pathogenomics](https://github.com/cpathogeno) & drug repurposing of infectious diseases: <br>
+- [Lauren Sosinski](https://twitter.com/sosinsk7), Genetics, Molecular Biology w/ a minor in CMSE. <br>
+- Philip Calhoun, Human Biology (pre-med). <br>
+- Samuel Chen, Computer Science Engineering. <br>
+- [Phoebe Tuyishime](https://www.canr.msu.edu/people/phoebe-tuyishime), Nutritional Sciences w/ a minor in Global Public health and Epidemiology.
 """
 
 [[item]]

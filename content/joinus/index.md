@@ -59,7 +59,7 @@ Computational Biology | Bioinformatics | Phylogenetics & Molecular Evolution | C
 
 # Open positions
 ## Undergraduate Student Research
-We are looking for two highly motivated and quantitatively-minded undergraduate students to work on a research project developing computational approaches to accelerate drug-/vaccine-target discovery against infectious diseases.
+We are looking for highly motivated and quantitatively-minded undergraduate students to work on a research project developing computational approaches to accelerate drug-/vaccine-target discovery against infectious diseases. Currently, we prefer students coming in with fellowships/scholarships (_e.g.,_ SROP, ENSURE, other department/college-level awards).
 
 We are happy to train them in many aspects of data-intensive biology. A keen interest in bioinformatics, computational biology, statistics/biostatistics, computer science, genetics, or related fields, and prior programming experience in R, Python, Perl, and/or C/C++ would be a huge plus. As part of this project, they will have the opportunity to work closely with a senior scientist and learn to: a) work with large datasets, b) write structured, well-documented code to analyze, integrate, and visualize these datasets, c) interpret the results in the context of pathogenesis, and d) communicate the results in the form of a paper and presentation.
 
