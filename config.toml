@@ -295,10 +295,15 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://github.com/jananiravi"
 
-    [[params.social]] # jr-edit
-    icon = "researchgate"
-    icon_pack = "ai"
-    link = "https://researchgate.com/profile/Janani_Ravi2"
+  [[params.social]] # jr-edit
+    icon = "users"
+    icon_pack = "fas"
+    link = "/group"
+
+#    [[params.social]] # jr-edit
+#    icon = "researchgate"
+#    icon_pack = "ai"
+#    link = "https://researchgate.com/profile/Janani_Ravi2"
 
   [[params.social]] # jr-edit
     icon = "goodreads"

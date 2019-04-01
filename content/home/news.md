@@ -38,16 +38,16 @@ Deadline for poster registration: **April 1, 2019**.
 
 [[item]]
 title = "The team grows!"
-organization = "[~Group](//jananiravi.github.io/group)"
+organization = "[~Group](/group)"
 #certificate_url = ""
 date_start = "2019-02-15"
 date_end = ""
 description = """
 We now have 4 new undergrads working on [computational pathogenomics](https://github.com/cpathogeno) & drug repurposing of infectious diseases: <br>
-- [Lauren Sosinski](https://twitter.com/sosinsk7), Genetics, Molecular Biology w/ a minor in CMSE. <br>
+- Lauren Sosinski, Biochemistry & Biotechnology; Genomics and Molecular Genetics w/ a minor in CMSE. <br>
 - Philip Calhoun, Human Biology (pre-med). <br>
 - Samuel Chen, Computer Science Engineering. <br>
-- [Phoebe Tuyishime](https://www.canr.msu.edu/people/phoebe-tuyishime), Nutritional Sciences w/ a minor in Global Public health and Epidemiology.
+- Phoebe Tuyishime, Nutritional Sciences w/ a minor in Global Public health and Epidemiology.
 """
 
 [[item]]
