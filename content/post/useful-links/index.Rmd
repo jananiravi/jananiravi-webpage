@@ -5,10 +5,11 @@ date: '2018-11-12'
 slug: useful-resources
 categories:
   - Resources
+  - R
 tags:
   - academic
   - blogs
-  - bioinformatics
+  - compbio-bioinfo
   - git
   - R
   - refs

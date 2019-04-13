@@ -10,8 +10,8 @@ summary = "" # Projects pertaining to lipid metabolism deregulation in TB
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["lipid-metabolism", "Mtb", "research"]
-# categories = [""] # still works in v3.1?
+tags = ["lipid-metabolism", "host/pathogen", "compbio-bioinfo"]
+categories = ["Research"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -51,7 +51,7 @@ math = false
   preview_only = false
 
 +++
-## Research
+## Summary
 In addition to stress-response systems on the pathogenic side, I studied some host responses to *M. tuberculosis* infection using computational approaches as well:
 
 * characterizing the transcriptional response in infected macrophages under various small molecule perturbations using RNA-Seq analysis;

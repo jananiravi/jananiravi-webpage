@@ -31,8 +31,7 @@ description = """
 **Where?** Natural Sciences Bldg, MSU
 ([288 Farm Ln, East Lansing, MI 48824](https://maps.msu.edu/interactive/index.php?location=UB8Z))
 
-[REGISTER HERE](https://goo.gl/forms/vBQansRtMtev5eMt1) to attend, present a poster and/or a lightning talk! Lunch provided for registered attendees only.
-
+[REGISTER HERE](https://goo.gl/forms/vBQansRtMtev5eMt1) to attend, present a poster and/or a lightning talk! <br>
 Deadline for poster registration: **April 5, 2019**.
 """
 
@@ -43,11 +42,8 @@ organization = "[~Group](/group)"
 date_start = "2019-02-15"
 date_end = ""
 description = """
-We now have 4 new undergrads working on [computational pathogenomics](https://github.com/cpathogeno) & drug repurposing of infectious diseases: <br>
-- Lauren Sosinski, Biochemistry & Biotechnology; Genomics & Molecular Genetics w/ a minor in CMSE. <br>
-- Philip Calhoun, Human Biology (pre-med). <br>
-- Samuel Chen, Computer Science Engineering. <br>
-- Phoebe Tuyishime, Nutritional Sciences w/ a minor in Global Public health and Epidemiology.
+We now have 4 new undergrads working on [computational pathogenomics](https://github.com/cpathogeno) & drug repurposing of infectious diseases! <br>
+- Lauren Sosinski, Philip Calhoun, Samuel Chen, Phoebe Tuyishime.
 """
 
 [[item]]

@@ -65,7 +65,7 @@ enableGitInfo = false
   { name = "R-Ladies East Lansing", url = "https://rladies-eastlansing.github.io" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "Me_at_work.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "jananiravi-webpage-pic.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "janani@msu.edu"
@@ -253,7 +253,7 @@ enableGitInfo = false
   post = "/post/:year/:slug"
   talk = "/talk/:slug"
   publication = "/publication/:year/:slug"
-  research = "/project/:slug"
+  #research = "/project/:slug"
   interests = "/interests/:slug"
   rladies = "/rladies/:slug"
 
@@ -330,14 +330,19 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
+#[[menu.main]]
+#  name = "Bio"
+#  url = "bio"
+#  weight = 2
+
 [[menu.main]]
   name = "News"
   url = "#news"
   weight = 2
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Papers"
+  url = "#papers"
   weight = 3
 
 [[menu.main]]
@@ -361,8 +366,8 @@ enableGitInfo = false
 #  weight = 5
 
 [[menu.main]]
-  name = "Join Us"
-  url = "/joinus"
+  name = "Group"
+  url = "/group"
   weight = 7
 
 [[menu.main]]

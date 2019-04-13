@@ -47,14 +47,15 @@ slides = "" # example-slides
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Mtb"]
+tags = ["compbio-bioinfo", "host/pathogen"]
+categories = ["Research"]
 
 # Links (optional).
 url_pdf = "http://www.jimmunol.org/cgi/pmidlookup?view=long&pmid=24899504"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = ""
+url_project = "//jananiravi.github.io/projects/stress-response"
 url_slides = ""
 url_video = ""
 url_poster = ""
@@ -62,7 +63,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/24899504"}, {name = "GitHub", url = "http://github.com/jananiravi/2014-vitd-mtb"}]
+url_custom = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/24899504"}, {name = "GitHub", url = "//github.com/jananiravi/vitamind-lipidmetabolism-mtb-infection"}]
 
 # Digital Object Identifier (DOI)
 doi = ""

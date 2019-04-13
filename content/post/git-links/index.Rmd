@@ -4,10 +4,12 @@ author: Janani Ravi
 date: '2018-05-03'
 categories:
   - Resources
+  - R
 tags:
   - software-tools
   - refs
   - git
+  - R
 slug: git-github-links
 output:
   blogdown::html_page

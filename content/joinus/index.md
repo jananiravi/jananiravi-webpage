@@ -1,6 +1,6 @@
 +++
 title = "Join us!"
-subtitle = "We study evolutionary and translational aspects of pathobiology. [Computational Pathogenomics Group](//jananiravi.github.io/group)"
+subtitle = "We study evolutionary and translational aspects of pathobiology.<br> [Computational Pathogenomics Group](//jananiravi.github.io/group)"
 
 date = 2019-01-15T00:00:00
 lastmod = 2019-03-25T00:00:00
@@ -10,10 +10,9 @@ draft = false
 authors = ["Janani Ravi"]
 summary = "Looking for undergrads, graduate students & visiting scientists!"
 
-tags = ["jobs", "evolution", "datascience", "bioinformatics", "R"]
+tags = ["jobs", "phylogeny-evolution", "data-science", "compbio-bioinfo", "R"]
 
-# Do the following work? they work in rmd files!
-# categories = "R-Ladies"
+categories = ["R-Ladies"]
 # slug = "joinus"
 toc = true
 
@@ -45,17 +44,6 @@ preview_only = true
 # image = "" # 20180725-kickoff-group.jpg
 # caption = ""
 +++
-
-# Research program
-Our research involves developing computational approaches that can leverage large-scale genomic data to gain actionable insights into infectious disease biology.
-Specifically, we focus on three key areas:
-
-i) Identifying genomic signatures, functions, and mechanisms relevant to host-pathogen interactions, to enable understanding and guide diagnosis,
-ii) Unraveling molecular mechanisms common between genetic and infectious diseases, to guide targeted drug repurposing, and
-iii) Developing tools and resources for seamlessly relating sequence, structure, and function of genes/proteins in poorly characterized pathogens to enable and guide better prevention, diagnostic and treatment regimen.
-
-# Keywords
-Computational Biology | Bioinformatics | Phylogenetics & Molecular Evolution | Comparative pathogenomics | Molecular drug/vaccine discovery | Data Analysis & Visualization
 
 # Open positions
 ## Undergraduate Student Research

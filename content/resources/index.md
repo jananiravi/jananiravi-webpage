@@ -13,7 +13,7 @@ toc = true
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["academic", "blogs", "bioinformatics", "git", "R", "refs"]
+tags = ["academic", "blogs", "compbio-bioinfo", "git", "R", "refs"]
 categories = ["Resources"]
 
 # Optional external URL for project (replaces project detail page).

@@ -4,7 +4,7 @@ author: Janani Ravi
 date: '2018-05-24'
 slug: modelers-hippocratic-oath
 categories: ["Books-Blogs"]
-tags: ["math-modeling", "blogs", "academic", "datascience"]
+tags: ["math-modeling", "blogs", "academic", "data-science"]
 summary: "Simple and sensible pointers laid out by Emanuel Derman & Paul Wilmott."
 ---
 

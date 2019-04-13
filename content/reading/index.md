@@ -4,15 +4,16 @@ date = 2018-05-07T00:00:00
 
 # Project title.
 title = "Reading"
+subtitle = "Posts and updates on [books & blogs](/categories/Books-Blogs) that caught my eye!"
 
 # Project summary to display on homepage.
-summary = "Posts and updates on fun [books](//goodreads.com/jananiravi) & blogs!"
+summary = "Posts and updates on [books & blogs](/categories/Books-Blogs) that caught my eye!"
 
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["review", "books", "fun", "blogs"]
-categories = ["Books-Blogs"] # still works in v3.1?
+tags = ["books", "blogs"]
+categories = ["Books-Blogs"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "/categories/Books-Blogs"
@@ -30,6 +31,7 @@ url_pdf = ""
 url_slides = ""
 url_video = ""
 url_code = ""
+url_goodreads = "//goodreads.com/jananiravi"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

@@ -6,11 +6,12 @@ slug: becoming-steve-jobs
 categories:
   - Books-Blogs
 tags:
+  # - reading
   - books
-  - review
-  - biography
-  - tech
-  - authors
+  # - review
+  # - biography
+  # - tech
+  # - authors
 summary: "Book recommendation"
 ---
 

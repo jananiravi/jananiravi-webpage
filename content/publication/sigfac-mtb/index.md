@@ -24,7 +24,7 @@ publication_short = "*Nat Comm*"
 
 # Abstract and optional shortened version.
 abstract = "Accessory sigma factors, which reprogram RNA polymerase to transcribe specific gene sets, activate bacterial adaptive responses to noxious environments. Here we reconstruct the complete sigma factor regulatory network of the human pathogen Mycobacterium tuberculosis by an integrated approach. The approach combines identification of direct regulatory interactions between M. tuberculosis sigma factors in an E. coli model system, validation of selected links in M. tuberculosis, and extensive literature review. The resulting network comprises 41 direct interactions among all 13 sigma factors. Analysis of network topology reveals (i) a three-tiered hierarchy initiating at master regulators, (ii) high connectivity and (iii) distinct communities containing multiple sigma factors. These topological features are likely associated with multi-layer signal processing and specialized stress responses involving multiple sigma factors. Moreover, the identification of overrepresented network motifs, such as autoregulation and coregulation of sigma and anti-sigma factor pairs, provides structural information that is relevant for studies of network dynamics."
-abstract_short = "ABC_short"
+abstract_short = ""
 
 
 # Is this a selected publication? (true/false)
@@ -48,14 +48,15 @@ slides = "" # example-slides
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Mtb"]
+tags = ["stress-response", "compbio-bioinfo", "host/pathogen", "R"]
+categories = ["Research"]
 
 # Links (optional).
 url_pdf = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4821874/pdf/ncomms11062.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = ""
+url_project = "//jananiravi.github.io/projects/stress-response"
 url_slides = ""
 url_video = ""
 url_poster = ""

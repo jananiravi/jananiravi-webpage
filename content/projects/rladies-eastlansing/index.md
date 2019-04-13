@@ -10,8 +10,8 @@ summary = "" # News pertaining to *R-Ladies East Lansing*!
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["rladies", "software-tools", "blogs"]
-categories = ["Resources"] # still works in v3.1?
+tags = ["rladies", "software-tools", "blogs", "compbio-bioinfo", "R"]
+categories = ["R"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -22,17 +22,17 @@ external_link = ""
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "example-slides" # //bit.ly/rlel-github-meetup
+slides = "" # //bit.ly/rlel-github-meetup
 
 # Links (optional).
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = ""
+url_code = "https://github.com/rladies-eastlansing"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/janani137"}, {icon_pack = "fab", icon="twitter", name="Follow R-Ladies East Lansing", url = "https://twitter.com/RLadiesELansing"}]
+url_custom = [{icon_pack = "fab", icon="twitter", name="Follow (me)", url = "https://twitter.com/janani137"}, {icon_pack = "fab", icon="twitter", name="Follow R-Ladies East Lansing", url = "https://twitter.com/RLadiesELansing"}]
 
 # Does the project detail page use math formatting?
 math = false
@@ -52,6 +52,6 @@ math = false
 
 +++
 
-[Launching R-Ladies East Lansing](/post/2018/rladies-elansing)
+[R-Ladies East Lansing Posts & Workshops](/tags/rladies)
 
 <img src="/interests/rladies_files/rladies.jpeg" alt="" width="200px" height="200px"/>

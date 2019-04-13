@@ -11,8 +11,7 @@ authors = ["Janani Ravi"]
 
 tags = ["rladies", "software-tools", "blogs"]
 summary = "Some accomplishments from 2018 & announcements for 2019!"
-# Do the following work? they work in rmd files!
-# categories = "R-Ladies"
+categories = ["R"]
 slug = "rlel-2018"
 toc = true
 
@@ -22,7 +21,7 @@ toc = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects = ["R-Ladies"]
+projects = ["rladies-eastlansing"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

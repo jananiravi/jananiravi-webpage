@@ -10,6 +10,8 @@ date = 2017-01-01T00:00:00
 #   4 = Stream
 list_format = 3
 
+weight = 3
+
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""

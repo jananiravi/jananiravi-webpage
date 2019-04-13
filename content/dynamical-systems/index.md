@@ -10,8 +10,8 @@ summary = "" # Prior [mathematical biology projects](http://mpf.biol.vt.edu/lab_
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["dynamical-systems", "math-modeling", "research"]
-# categories = [""] # still works in v3.1?
+tags = ["dynamical-systems", "math-modeling"]
+categories = ["Research"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "http://mpf.biol.vt.edu/lab_website/people/Janani_Ravi/"

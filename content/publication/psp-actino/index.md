@@ -47,14 +47,15 @@ slides = "" # example-slides
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Psp"]
+tags = ["stress-response", "phylogeny-evolution", "host/pathogen", "compbio-bioinfo", "R"]
+categories = ["Research"]
 
 # Links (optional).
 url_pdf = "https://link.springer.com/content/pdf/10.1007%2Fs10482-018-1053-5.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = ""
+url_project = "//jananiravi.github.io/projects/stress-response"
 url_slides = ""
 url_video = ""
 url_poster = ""

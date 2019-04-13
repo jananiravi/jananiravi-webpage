@@ -10,8 +10,8 @@ summary = "" #Projects pertaining to bacterial stress response systems
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Psp", "stress-response", "phylogeny-evolution", "genomic-context", "Mtb", "actinobacteria", "tree-of-life", "research"]
-# categories = [""] # still works in v3.1?
+tags = ["stress-response", "phylogeny-evolution", "host/pathogen", "compbio-bioinfo"]
+categories = ["Research"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -51,7 +51,7 @@ math = false
   preview_only = false
 
 +++
-## Research
+## Summary
 During my postdoctoral research at Rutgers University, I focused on using computational approaches to study various facets of host and pathogen biology including:
 
 * delineating the molecular mechanism underlying a newly identified stress response operon in the tubercle bacterium involving the phage-shock-proteins (psp);
