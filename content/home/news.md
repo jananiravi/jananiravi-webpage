@@ -1,13 +1,12 @@
 +++
 # Accomplishments widget.
-widget = "accomplishments"  # Do not modify this line!
+widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
+weight = 2  # Order that this section will appear.
 
 title = "News"
 subtitle = ""
-
-# Order that this section will appear in.
-weight = 2
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,9 +18,11 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
 [[item]]
 title = "Women in Data Science East Lansing @MSU is here!"
-organization = "[Event Details](https://github.com/rladies-eastlansing/WiDS2019/wiki)"
+organization = "Event Details"
+organization_url = "https://github.com/rladies-eastlansing/WiDS2019/wiki"
 #certificate_url = ""
 date_start = "2019-03-15"
 date_end = "2019-04-12"
@@ -37,7 +38,8 @@ Deadline for poster registration: **April 5, 2019**.
 
 [[item]]
 title = "The team grows!"
-organization = "[~Group](/group)"
+organization = "~Group"
+organization_url = "/group"
 #certificate_url = ""
 date_start = "2019-02-15"
 date_end = ""
@@ -49,6 +51,7 @@ We now have 4 new undergrads working on [computational pathogenomics](https://gi
 [[item]]
 title = "Join us"
 organization = "Hiring Graduate/Undergraduate students & Visiting scientists!"
+organization_url = "/joinus"
 #certificate_url = ""
 date_start = "2019-01-15"
 date_end = ""
@@ -60,6 +63,7 @@ We are looking for  highly motivated and quantitatively-minded undergraduate & g
 [[item]]
 title = "University grant funded!"
 organization = "Endowed Research Fund, CVM, MSU"
+organization_url = "https://cvm.msu.edu/research/research-and-graduate-studies/research-facilitation/find-funding/cvm-endowed-research-funds/"
 #certificate_url = "https://www.cvm.msu.edu"
 date_start = "2019-01-02"
 date_end = ""

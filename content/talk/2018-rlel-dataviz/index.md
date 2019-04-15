@@ -1,20 +1,21 @@
 +++
 title = "R-Ladies East Lansing | Workshop on Intro to Data Visualization w/ R"
-date = 2018-10-08T00:00:00  # Schedule page publish date.
-draft = false
+publishDate = 2018-10-08T00:00:00  # Schedule page publish date.
+
 # slug = rlel-workshop-dataviz # doesn't work in academic v3.1
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-10-08T18:00:00
-time_end = 2018-10-08T20:00:00
+date = 2018-10-08T18:00:00
+date_end = 2018-10-08T20:00:00
+all_day = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Janani Ravi", "Veronica Frans", "Kayla Johnson", "Cara Feldscher"]
 
 # Abstract and optional shortened version.
 abstract = " "
-abstract_short = " "
+summary = " "
 
 # Name of event and optional event URL.
 event = "R-Ladies East Lansing | November 5, 2018"
@@ -23,8 +24,8 @@ event_url = "https://bit.ly/rlel-github-meetup"
 # Location of event.
 location = "East Lansing, MI"
 
-# Is this a selected talk? (true/false)
-selected = true
+# Is this a featured talk? (true/false)
+featured = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -32,13 +33,13 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["rladies"]
+projects = ["rladies-eastlansing"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["R", "rladies", "datascience", "software-tools"]
+tags = ["R", "data-science", "software-tools"]
 
-categories = ["R-Ladies", "Resources"] # valid in v3.1?
+categories = ["R", "Resources"] # valid in v3.1?
   
 # Slides (optional).
 #   Associate this talk with Markdown slides.

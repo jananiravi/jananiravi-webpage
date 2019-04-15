@@ -1,13 +1,12 @@
 +++
-
 title = "Microbial Mechanosensing: Phage Shock Protein Response System in Gram-positive Bacteria"
-date = 2016-06-18T00:00:00  # Schedule page publish date.
-draft = false
+publishDate = 2016-06-18T00:00:00  # Schedule page publish date.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2016-06-18T14:45:00
-time_end = 2016-06-18T15:00:00
+date = 2016-06-18T14:45:00
+date_end = 2016-06-18T15:00:00
+all_day = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["*Janani Ravi*", "V Anantharaman", "L Aravind", "ML Gennaro"]
@@ -23,8 +22,8 @@ event_url = "https://www.asm.org/images/ASM_Microbe_2016_final_program.pdf"
 # Location of event.
 location = "Boston, MA"
 
-# Is this a selected talk? (true/false)
-selected = true
+# Is this a featured talk? (true/false)
+featured = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -32,11 +31,11 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = ["stress-response"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Psp", "evolution"]
+tags = ["phylogeny-evolution", "compbio-bioinfo"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -56,7 +55,7 @@ url_code = ""
 math = true
 
 # Does the content use source code highlighting?
-highlight = true # valid in v3.1?
+highlight = true # valid in v4.1?
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

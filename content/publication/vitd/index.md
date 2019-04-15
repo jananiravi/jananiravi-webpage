@@ -1,8 +1,8 @@
 +++
 title = "Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection"
 date = 2014-07-01T00:00:00
-draft = false
-slug = "jimm"
+
+slug = "jimm" # still works?
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [ "H Salamon", "N Bruiners", "K Lakehal", "L Shi", "*J Ravi*", "KD Yamaguchi", "R Pine", "ML Gennaro"]
@@ -12,10 +12,12 @@ authors = [ "H Salamon", "N Bruiners", "K Lakehal", "L Shi", "*J Ravi*", "KD Yam
 # 0 = Uncategorized
 # 1 = Conference paper
 # 2 = Journal article
-# 3 = Manuscript
+# 3 = Preprint / Working Paper
 # 4 = Report
 # 5 = Book
 # 6 = Book section
+# 7 = Thesis
+# 8 = Patent
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
@@ -24,10 +26,13 @@ publication_short = "*J Imm*"
 
 # Abstract and optional shortened version.
 abstract = "Vitamin D has long been linked to resistance to tuberculosis, an infectious respiratory disease that is increasingly hard to treat because of multidrug resistance. Previous work established that vitamin D induces macrophage antimicrobial functions against Mycobacterium tuberculosis. In this article, we report a novel, metabolic role for vitamin D in tuberculosis identified through integrated transcriptome and mechanistic studies. Transcriptome analysis revealed an association between vitamin D receptor (VDR) and lipid metabolism in human tuberculosis and infected macrophages. Vitamin D treatment of infected macrophages abrogated infection-induced accumulation of lipid droplets, which are required for intracellular M. tuberculosis growth. Additional transcriptomics results showed that vitamin D downregulates the proadipogenic peroxisome proliferator-activated receptor γ (PPARγ) in infected macrophages. PPARγ agonists reversed the antiadipogenic and the antimicrobial effects of VDR, indicating a link between VDR and PPARγ signaling in regulating both vitamin D functions. These findings suggest the potential for host-based, adjunct antituberculosis therapy targeting lipid metabolism."
-abstract_short = " "
+summary = " "
 
-# Is this a selected publication? (true/false)
-selected = false
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Is this a featured publication? (true/false)
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -63,10 +68,8 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/24899504"}, {name = "GitHub", url = "//github.com/jananiravi/vitamind-lipidmetabolism-mtb-infection"}]
+links = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/24899504"}, {name = "GitHub", url = "//github.com/jananiravi/vitamind-lipidmetabolism-mtb-infection"}]
 
-# Digital Object Identifier (DOI)
-doi = ""
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -89,4 +92,4 @@ math = true
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+

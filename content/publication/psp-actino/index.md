@@ -1,8 +1,8 @@
 +++
 title = "Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria"
 date = 2018-02-27T00:00:00
-draft = false
-slug = "anto"
+
+slug = "anto" # still works?
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["*J Ravi*", "V Anantharaman", "L Aravind", "ML Gennaro"]
@@ -12,10 +12,12 @@ authors = ["*J Ravi*", "V Anantharaman", "L Aravind", "ML Gennaro"]
 # 0 = Uncategorized
 # 1 = Conference paper
 # 2 = Journal article
-# 3 = Manuscript
+# 3 = Preprint / Working Paper
 # 4 = Report
 # 5 = Book
 # 6 = Book section
+# 7 = Thesis
+# 8 = Patent
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
@@ -24,10 +26,13 @@ publication_short = "*Anto*"
 
 # Abstract and optional shortened version.
 abstract = " "
-abstract_short = ""
+summary = ""
 
-# Is this a selected publication? (true/false)
-selected = false
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Is this a featured publication? (true/false)
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -63,10 +68,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/29488183"}, {name = "GitHub", url = "http://github.com/jananiravi/2018-psp-actino"}]
-
-# Digital Object Identifier (DOI)
-doi = ""
+links = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/29488183"}, {name = "GitHub", url = "http://github.com/jananiravi/2018-psp-actino"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
