@@ -10,3 +10,6 @@ options(
   blogdown.new_bundle = TRUE,
   blogdown.title_case = TRUE
 )
+#### -- Packrat Autoloader (version 0.5.0-5) -- ####
+source("packrat/init.R")
+#### -- End Packrat Autoloader -- ####
