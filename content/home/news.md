@@ -20,20 +20,19 @@ date_format = "Jan 2006"
 
 
 [[item]]
-title = "Women in Data Science East Lansing @MSU is here!"
+title = "Women in Data Science East Lansing @MSU"
 organization = "Event Details"
 organization_url = "https://github.com/rladies-eastlansing/WiDS2019/wiki"
 #certificate_url = ""
 date_start = "2019-03-15"
 date_end = "2019-04-12"
 description = """
-**_Women in Data Science East Lansing @MSU 2019_** <br>
+[**Women in Data Science East Lansing @MSU 2019**](https://github.com/rladies-eastlansing/WiDS2019/wiki) <br>
 **When?** April 12, 2019, 1130a–5p <br>
 **Where?** Natural Sciences Bldg, MSU
 ([288 Farm Ln, East Lansing, MI 48824](https://maps.msu.edu/interactive/index.php?location=UB8Z))
 
-[REGISTER HERE](https://goo.gl/forms/vBQansRtMtev5eMt1) to attend, present a poster and/or a lightning talk! <br>
-Deadline for poster registration: **April 5, 2019**.
+[REGISTRATION](https://goo.gl/forms/vBQansRtMtev5eMt1).
 """
 
 [[item]]

@@ -5,7 +5,7 @@ date = 2018-02-27T00:00:00
 slug = "anto" # still works?
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["*J Ravi*", "V Anantharaman", "L Aravind", "ML Gennaro"]
+authors = ["Janani Ravi", "Vivek Anantharaman", "L Aravind Iyer", "Maria L Gennaro"]
 
 # Publication type.
 # Legend:

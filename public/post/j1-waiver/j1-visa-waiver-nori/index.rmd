@@ -15,17 +15,12 @@ output:
 summary: "Applying for the J1 visa waiver and No Obligation to Return to India (NORI) certificate from the Indian/US governments."
 ---
 
-# About Me
-I’m Janani Ravi, currently at Michigan State University.
-### Contact:
-Email: http://scr.im/janani | Twitter: [\@janani137](twitter.com/janani137)
-
-# Why I’m writing this
+## Why I’m writing this
 I went through this rather painful & ghastly process from Rutgers University, Newark, NJ. My closest consulate was the one in New York (CGNY).
 I am originally from Chennai, Tamil Nadu (India). So, most of the state department and RPO/police verification guidelines I've enlisted below worked for my specific case. Folks from other countries can skip ahead from their consulate to the last step reading some country-specific blogs in-between.
 
-# The initial process, where you read and imbibe!
-## Helpful links:
+## The initial process, where you read and imbibe!
+### Helpful links:
 * **US govt. websites**
     * http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver.html
         * http://travel.state.gov/content/visas/english/study-exchange/student/residency-waiver/ds-3035-instructions.html
@@ -41,7 +36,7 @@ I am originally from Chennai, Tamil Nadu (India). So, most of the state departme
     * *Tip*: Find specific blogs for your state since the rules and guidelines might be somewhat different. Mine was Tamil Nadu.
     * Other useful PDFs that may include some of the above: The_process
 
-# Approximate order of key events & things-to-do
+## Approximate order of key events & things-to-do
 * Read & decipher the resources. It’s a one-time thing. So, do it!
 * Start at least 1–1.5yrs before your current employment ends/your extended J1 expires. The process takes time & patience. Give time for ‘worst case scenarios’!
 * Tip: Talk to your department admin and your university’s international/J1 office.
@@ -63,7 +58,7 @@ I am originally from Chennai, Tamil Nadu (India). So, most of the state departme
     * This would take 24-48h but can only happen before you terminate your current appointment. Once you are out, you need to process a new J1 and, possibly, go this whole process once again!
     * This could happen even while your J1 is being petitioned.
 
-# Initial set of documents needed for the Indian Consulate attestation
+## Initial set of documents needed for the Indian Consulate attestation
 * Original Passport + Visa (+ copy)
 * All DS-2019s (+ copy)
 * Latest I-94 (+ copy)
@@ -74,7 +69,7 @@ I am originally from Chennai, Tamil Nadu (India). So, most of the state departme
     * unfilled sample: J1-waiver-biodata-affidavit-NY_unfilled.pdf
     * The first page is for New York Consulate General but others could use it as a guide too.
 
-# Documents to be sent to Indian Home Department
+## Documents to be sent to Indian Home Department
 Govt. of India Ministry of Human Resource Development (HRD)
 No Obligation to Return to India
 http://www.nori.ac.in/ (quite straightforward; trackable (!); they are really fast & responsive)
@@ -87,11 +82,11 @@ http://www.nori.ac.in/ (quite straightforward; trackable (!); they are really fa
     * Employment letter from the department chair (I needed this somewhere)
     * Proof of current residence in the US
 
-# Documents to be sent to the other two departments:
+## Documents to be sent to the other two departments:
 1. your state government
 2. your Regional Passport Office (likely, where you got your first passport)
 
-## List of documents
+### List of documents
 1. Biodata and Affidavit (Notarized & Attested by the Consulate General of India, New York, USA)
 2. Copy of Passport (New and Old) and J1-Visa
 3. Copy of all DS-2019s
@@ -127,8 +122,8 @@ that will help her continue working towards her professional and personal
 goals in the US. The experience and expertise that she gains during her stay
 there will help her serve India better in the long run.
 
-# Addresses for mailing your packages
-## TN State Department
+## Addresses for mailing your packages
+### TN State Department
 ```
 The Secretary
 Home (Citz II) Department
@@ -138,7 +133,7 @@ Chennai 600 009
 Tamil Nadu, India
 ```
 
-## Regional Passport Office (RPO)
+### Regional Passport Office (RPO)
 ```
 The Passport Officer
 Regional Passport Office
@@ -148,16 +143,16 @@ Chennai 600002
 Tamil Nadu, India
 ```
 
-# Additional documents required for police verification
+## Additional documents required for police verification
 *[At least, I needed it (Chennai, Tamil Nadu)]*
 
-## Main letters/documents
+### Main letters/documents
 
 * Consent letter and Pro Forma from the applicant's parent
 * Letter from the applicant's spouse
 * Biodata of the applicant
 
-## Supporting documents
+### Supporting documents
 
 1. Applicant's: Mark sheets and certificates
     1. 10th 12th mark sheets
@@ -182,7 +177,7 @@ Tamil Nadu, India
 10. Applicant’s Parents': Chennai address proof (Ration card, gas bill)
 11. Applicant’s Parents': Aadhar card
 
-# Final set of documents to be sent to the USCIS, Department of State
+## Final set of documents to be sent to the USCIS, Department of State
 * Read the [How to apply for a waiver](https://travel.state.gov/content/travel/en/us-visas/study/exchange/waiver-of-the-exchange-visitor/how-to-apply-waiver.html) page on the travel.state.gov website again.
 * DS-3035 & SOR J1 waiver application packet for USCIS and Department of State
     * Application fee
@@ -209,7 +204,7 @@ Tamil Nadu, India
         * India: i) home department, ii) state department and iii) regional passport office (for police verification) and
         * US (local Indian Consulate, although they would be sending a copy)
 
-## Address for the package to be sent
+### Address for the package to be sent
 
 ```
 Postal Service
@@ -225,6 +220,6 @@ P.O. Box 979037
 St. Louis, MO 63101-1200
 ```
 
-## Tracking progress
+### Tracking progress
 https://j1visawaiverrecommendation.state.gov/
 

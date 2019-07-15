@@ -5,7 +5,7 @@ date = 2016-03-01T00:00:00
 slug = "natcomm" # still works?
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "R Chauhan", "*J Ravi*", "P Datta", "T Chen", "D Schnappinger", "KE Bassler", "G Balázsi", "ML Gennaro"]
+authors = [ "Rinki Chauhan", "Janani Ravi", "Pratik Datta", "Tian Chen", "Dirk Schnappinger", "Kevin E Bassler", "Gabor Balázsi", "Maria L Gennaro"]
 
 # Publication type.
 # Legend:

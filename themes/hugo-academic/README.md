@@ -8,17 +8,19 @@
 
 [Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://sourcethemes.com/academic/#expo) of personal, project, and business sites.
 
-- [**Setup Academic**](#install)
-- [**Get Started**](https://sourcethemes.com/academic/docs/get-started/)
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+- 👉 [**Get Started**](https://sourcethemes.com/academic/docs/install/)
+- 📚 [View the **documentation**](https://sourcethemes.com/academic/docs/)
+- 💬 [**Ask a question** on the forum](https://discourse.gohugo.io)
+- 👥 [Chat with the **community**](https://spectrum.chat/academic)
+- 🐦 Twitter: [@source_themes](https://twitter.com/source_themes) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithAcademic](https://twitter.com/search?q=%23MadeWithAcademic&src=typd)
+- 💡 [Request a **feature** or report a **bug**](https://github.com/gcushen/hugo-academic/issues)
+- ⬆️ **Updating?** View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
+- :heart: **Support development** of Academic:
+  - ☕️ [**Donate a coffee**](https://paypal.me/cushen)
+  - 💵 [Become a backer on **Patreon**](https://www.patreon.com/cushen)
+  - 🖼️ [Decorate your laptop or journal with an Academic **sticker**](https://www.redbubble.com/people/neutreno/works/34387919-academic)
+  - 👕 [Wear the **T-shirt**](https://academic.threadless.com/)
+  - :woman_technologist: [**Contribute**](https://sourcethemes.com/academic/docs/contribute/)
 
 [![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
 
@@ -50,9 +52,11 @@ Choose a stunning color and font theme for your site. Themes are fully customiza
 | --- | --- | --- | --- |
 | ![default theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png) | ![ocean theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png) | ![forest theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png) | ![dark theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png) |
 
-| `apogee` | `1950s` | `coffee` | `cupcake` |
+| `apogee` | `1950s` | `coffee` | `strawberry` |
 | --- | --- | --- | --- |
-| ![apogee theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-apogee.png) | ![1950s theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png) | ![coffee theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png) | ![cupcake theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-cupcake.png) |
+| ![apogee theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-apogee.png) | ![1950s theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png) | ![coffee theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png) | ![cupcake theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-strawberry.png) |
+
+[Browse more themes...](https://sourcethemes.com/academic/themes/)
 
 ## Ecosystem
 
@@ -74,33 +78,37 @@ You can choose from one of the following four methods to install:
   * One-click install of Academic creates an `academic-kickstart` repository in your GitHub or GitLab account
   * Netlify will provide you with a customizable URL to access your new site, [or get your own domain](https://sourcethemes.com/academic/docs/domain/)
   * Shortly after editing content in your repository, your site will automatically update
-  * Optionally, use [Git](https://git-scm.com/downloads) to clone your new repository to your computer for offline editing
+  * Optionally, to edit your site in a [Markdown editor](https://www.typora.io) on your computer, perform the steps in the [*Install with Git*](#install-with-git) section below
 
 ### Install with Git
 
 Prerequisites:
 
 * [Download and install Git](https://git-scm.com/downloads)
-* [Download and install Hugo v0.53](https://gohugo.io/getting-started/installing/#quick-install)
+* [Download and install Hugo Extended v0.55.6+](https://gohugo.io/getting-started/installing/#quick-install)
 
 Install:
 
-1. [Fork](https://github.com/sourcethemes/academic-kickstart#fork-destination-box) the *Academic Kickstart* repository and clone your fork with Git: 
+1. [Fork](https://github.com/sourcethemes/academic-kickstart#fork-destination-box) the *Academic Kickstart* repository to create a new website
+   * If you already created your site with **Netlify**, then skip this step
+2. Clone your fork to your computer with Git, replacing `sourcethemes` in the command below with your GitHub username: 
 
-       git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
+    ```bash
+    git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
+    ```
     
-    *Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace `sourcethemes` with your GitHub username.*
+3. Initialize the theme:
 
-2. Initialize the theme:
-
-       cd My_Website
-       git submodule update --init --recursive
+    ```bash
+    cd My_Website
+    git submodule update --init --recursive
+    ```
 
 ### Install with ZIP
 
 Prerequisites:
 
-* [Download and install Hugo v0.53](https://gohugo.io/getting-started/installing/#quick-install)
+* [Download and install Hugo Extended v0.55.6+](https://gohugo.io/getting-started/installing/#quick-install)
 
 Install:
 
@@ -129,7 +137,7 @@ cp -av themes/academic/exampleSite/* .
 
 [View the Update Guide](https://sourcethemes.com/academic/docs/update/).
 
-Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academic/) to help keep track of [updates](https://sourcethemes.com/academic/updates).
+Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academic/) and follow [@source_themes](https://twitter.com/source_themes) on Twitter to help keep track of [updates](https://sourcethemes.com/academic/updates).
 
 ## License
 

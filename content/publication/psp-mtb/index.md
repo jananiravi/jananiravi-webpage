@@ -5,7 +5,7 @@ date = 2015-08-03T00:00:00
 slug = "molmicro" # still works?
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["P Datta", "*J Ravi*", "V Guerrini", "R Chauhan", "MB Neiditch", "SS Shell", "SM Fortune", "B Hancioglu", "OA Igoshin", "ML Gennaro"]
+authors = ["Pratik Datta", "Janani Ravi", "Valentina Guerrini", "Rinki Chauhan", "Matt B Neiditch", "Scarlet S Shell", "Sarah M Fortune", "Baris Hancioglu", "Oleg A Igoshin", "Maria L Gennaro"]
 
 # Publication type.
 # Legend:
