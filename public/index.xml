@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Janani Ravi</title>
-    <link>/</link>
+    <link>https://jananiravi.github.io/</link>
     <description>Recent content on Janani Ravi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Janani Ravi, 2019</copyright>
+    <copyright>&amp;copy; Janani Ravi, {year}</copyright>
     <lastBuildDate>Fri, 05 Apr 2019 00:00:00 -0400</lastBuildDate>
     
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jananiravi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Research</title>
-      <link>/group/</link>
+      <link>https://jananiravi.github.io/group/</link>
       <pubDate>Fri, 05 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/group/</guid>
+      <guid>https://jananiravi.github.io/group/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Tidyverse for Genomics workshop</title>
-      <link>/talk/2019-iitm/</link>
+      <link>https://jananiravi.github.io/talk/2019-iitm/</link>
       <pubDate>Tue, 05 Mar 2019 14:00:00 -0500</pubDate>
       
-      <guid>/talk/2019-iitm/</guid>
+      <guid>https://jananiravi.github.io/talk/2019-iitm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tidyverse workshop</title>
-      <link>/talk/2019-plb/</link>
+      <link>https://jananiravi.github.io/talk/2019-plb/</link>
       <pubDate>Wed, 13 Feb 2019 09:00:00 -0500</pubDate>
       
-      <guid>/talk/2019-plb/</guid>
+      <guid>https://jananiravi.github.io/talk/2019-plb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simple rules to make an effective scientific presentation</title>
-      <link>/talk/2019-cvm/</link>
+      <link>https://jananiravi.github.io/talk/2019-cvm/</link>
       <pubDate>Thu, 24 Jan 2019 12:00:00 -0500</pubDate>
       
-      <guid>/talk/2019-cvm/</guid>
+      <guid>https://jananiravi.github.io/talk/2019-cvm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Join us!</title>
-      <link>/joinus/</link>
+      <link>https://jananiravi.github.io/joinus/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>/joinus/</guid>
+      <guid>https://jananiravi.github.io/joinus/</guid>
       <description>
 
 &lt;h1 id=&#34;open-positions&#34;&gt;Open positions&lt;/h1&gt;
@@ -89,10 +89,10 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
     
     <item>
       <title>2018: Year in Review | RLEL</title>
-      <link>/post/rlel-2018/rlel-2018/</link>
+      <link>https://jananiravi.github.io/post/rlel-2018/rlel-2018/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>/post/rlel-2018/rlel-2018/</guid>
+      <guid>https://jananiravi.github.io/post/rlel-2018/rlel-2018/</guid>
       <description>
 
 &lt;p&gt;Thanks to everyone who attended, participated or sponsored &lt;a href=&#34;https://rladies-eastlansing.github.io&#34; target=&#34;_blank&#34;&gt;R-Ladies East Lansing&lt;/a&gt; in 2018! We had a fantastic start &amp;amp; a very successful first 6mo &lt;a href=&#34;http://bit.ly/rlel-venue&#34; target=&#34;_blank&#34;&gt;on campus&lt;/a&gt;! We hosted 7 meetups since July 2018 including two very well-attended workshops (70+ attendees) and a DataViz challenge! Help us continue spreading the R &amp;amp; Data Science spirit across MSU in 2019! Contact us &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_blank&#34;&gt;eastlansing@rladies.org&lt;/a&gt; about co-hosting or sponsoring a meetup/workshop in Spring 2019. As always, R-Ladies events are open to all R-users across all levels of expertise including students, faculty and staff, and non-MSU folks.&lt;/p&gt;
@@ -111,7 +111,7 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
 
 &lt;h2 id=&#34;2018-sponsors&#34;&gt;2018 Sponsors&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;/rlel-2018/index_files/rlel-sponsors-2018.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://jananiravi.github.io/rlel-2018/index_files/rlel-sponsors-2018.jpg&#34; alt=&#34;&#34; /&gt;
 Grand Traverse Pie (2018-12) | Business Analytics (2018-11) | SSDA (2018-10) |
 Krishnan Lab (2018-09) | College of Veterinary Medicine (2018-09) |
 BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
@@ -191,8 +191,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/2018-rlel-sponsors.png&#34; data-caption=&#34;2018: Meetup Sponsors&#34;&gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/2018-rlel-sponsors_hubce25919d144db2df6f7db803ac6af17_6917740_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/2018-rlel-sponsors.png&#34; data-caption=&#34;2018: Meetup Sponsors&#34;&gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/2018-rlel-sponsors_hubce25919d144db2df6f7db803ac6af17_6917740_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -202,8 +202,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/20180706-rlel-chicago.jpg&#34; &gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/20180706-rlel-chicago_hu42fc7509618802349aa988fbd7243a25_514640_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180706-rlel-chicago.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180706-rlel-chicago_hu42fc7509618802349aa988fbd7243a25_514640_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -213,8 +213,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/20180725-kickoff-activities.jpg&#34; &gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/20180725-kickoff-activities_hufb152286910be5f1f97a12c3ee9ba939_334772_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180725-kickoff-activities.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180725-kickoff-activities_hufb152286910be5f1f97a12c3ee9ba939_334772_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -226,8 +226,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/20180725-kickoff-group.jpg&#34; data-caption=&#34;July 2018: Kickoff meeting&#34;&gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/20180725-kickoff-group_hu58b28802711a3c8afea9155c7bae7e71_394797_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180725-kickoff-group.jpg&#34; data-caption=&#34;July 2018: Kickoff meeting&#34;&gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180725-kickoff-group_hu58b28802711a3c8afea9155c7bae7e71_394797_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -237,8 +237,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/20180813-collage.jpg&#34; &gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/20180813-collage_hu57bfde7ce0f63a8f2911579dde681ddf_813532_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180813-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180813-collage_hu57bfde7ce0f63a8f2911579dde681ddf_813532_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -248,8 +248,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/20180826-rladies-collage.jpg&#34; &gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/20180826-rladies-collage_hu4f1e9fea0b3fc71314fb730919eec33b_1109597_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180826-rladies-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180826-rladies-collage_hu4f1e9fea0b3fc71314fb730919eec33b_1109597_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -259,8 +259,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/20180910-collage.jpg&#34; &gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/20180910-collage_hu8e0f1e6eb80c4af61623ed9a1842f9f2_782112_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180910-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180910-collage_hu8e0f1e6eb80c4af61623ed9a1842f9f2_782112_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -270,8 +270,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/20180924-collage.jpg&#34; &gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/20180924-collage_hua01839f5a1afcaad4f452bacfbebc633_206950_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180924-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180924-collage_hua01839f5a1afcaad4f452bacfbebc633_206950_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -281,8 +281,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/20181008-collage.jpg&#34; &gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/20181008-collage_hua99e81342a4312203de795a4b6c302ad_811467_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20181008-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20181008-collage_hua99e81342a4312203de795a4b6c302ad_811467_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -292,8 +292,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/20181105-collage.jpg&#34; &gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/20181105-collage_huf67a94b4b49f7252ca2125810aa6a32d_335840_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20181105-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20181105-collage_huf67a94b4b49f7252ca2125810aa6a32d_335840_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -303,8 +303,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/20181203-collage.jpg&#34; &gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/20181203-collage_huca736b01f7059b1c46c063b99a96199f_1034725_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20181203-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20181203-collage_huca736b01f7059b1c46c063b99a96199f_1034725_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -364,10 +364,10 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
     <item>
       <title>2019: RLEL Upcoming Events</title>
-      <link>/post/rlel-upcoming-2019/rlel-2019-upcoming/</link>
+      <link>https://jananiravi.github.io/post/rlel-upcoming-2019/rlel-2019-upcoming/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>/post/rlel-upcoming-2019/rlel-2019-upcoming/</guid>
+      <guid>https://jananiravi.github.io/post/rlel-upcoming-2019/rlel-2019-upcoming/</guid>
       <description>
 
 &lt;h2 id=&#34;a-little-background&#34;&gt;A little background&lt;/h2&gt;
@@ -493,48 +493,48 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
     
     <item>
       <title>Bio</title>
-      <link>/bio/</link>
+      <link>https://jananiravi.github.io/bio/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>/bio/</guid>
+      <guid>https://jananiravi.github.io/bio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2018: Year in Books | Goodreads</title>
-      <link>/post/goodreads-2018/goodreads-2018/</link>
+      <link>https://jananiravi.github.io/post/goodreads-2018/goodreads-2018/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/goodreads-2018/goodreads-2018/</guid>
+      <guid>https://jananiravi.github.io/post/goodreads-2018/goodreads-2018/</guid>
       <description>
 
 
 &lt;p&gt;Find my latest reads &amp;amp; recommendations on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;!&lt;/p&gt;
-&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2018/1671098&#34;&gt;2018: #MyYearInBooks Summary Stats&lt;/a&gt;&lt;/h3&gt;
+&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2018/1671098&#34;&gt;2018: #MyYearInBooks Summary Stats&lt;/a&gt;&lt;/h4&gt;
 &lt;/div&gt;
-&lt;div id=&#34;book-read&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2018-reads&#34;&gt;Book Read&lt;/a&gt;&lt;/h3&gt;
+&lt;div id=&#34;book-read&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2018-reads&#34;&gt;Book Read&lt;/a&gt;&lt;/h4&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Useful Resources</title>
-      <link>/post/useful-links/useful-resources/</link>
+      <link>https://jananiravi.github.io/post/useful-links/useful-resources/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/useful-links/useful-resources/</guid>
+      <guid>https://jananiravi.github.io/post/useful-links/useful-resources/</guid>
       <description>
 
 
-&lt;p&gt;&lt;em&gt;My posts with some &lt;a href=&#34;/categories/resources&#34;&gt;#useful-resources&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;My posts with some &lt;a href=&#34;https://jananiravi.github.io/categories/resources&#34;&gt;#useful-resources&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;div id=&#34;great-posts-academic&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Great posts | academic&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/&#34;&gt;The Awesomest 7-year Postdoc &lt;em&gt;by&lt;/em&gt; Radhika Nagpal | Scientific American&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2016/matt-might-blog/&#34;&gt;Matt Might’s Blog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler’s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2016/matt-might-blog/&#34;&gt;Matt Might’s Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler’s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;bioinformatics&#34; class=&#34;section level2&#34;&gt;
@@ -551,7 +551,7 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
 &lt;div id=&#34;r&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;R&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/&#34;&gt;R resources&lt;/a&gt; &lt;em&gt;by&lt;/em&gt; &lt;a href=&#34;paulvanderlaken.com&#34;&gt;Paul Vanderlaken&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Related post: &lt;a href=&#34;https://paulvanderlaken.com/2018/05/21/r-tips-and-tricks/&#34;&gt;R Tips and Tricks&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -591,10 +591,10 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
     
     <item>
       <title>Bacterial Stress Response</title>
-      <link>/projects/stress-response/</link>
+      <link>https://jananiravi.github.io/projects/stress-response/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 -0500</pubDate>
       
-      <guid>/projects/stress-response/</guid>
+      <guid>https://jananiravi.github.io/projects/stress-response/</guid>
       <description>
 
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
@@ -611,9 +611,9 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
 
 &lt;ul&gt;
 &lt;li&gt;The evolution, conservation, and covariation of the Psp envelope-stress-response system across the tree of life, &lt;em&gt;in preparation.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/publication/2018/anto&#34;&gt;Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/publication/2015/molmicro&#34;&gt;The Psp system of &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt; integrates envelope stress-sensing and envelope-preserving functions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/publication/2016/natcomm&#34;&gt;Reconstruction and topological characterization of the sigma factor regulatory network of &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/publication/2018/anto&#34;&gt;Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/publication/2015/molmicro&#34;&gt;The Psp system of &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt; integrates envelope stress-sensing and envelope-preserving functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/publication/2016/natcomm&#34;&gt;Reconstruction and topological characterization of the sigma factor regulatory network of &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
@@ -652,10 +652,10 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
     
     <item>
       <title>R-Ladies East Lansing | Workshop on Intro to Tidy Data w/ R</title>
-      <link>/talk/2018-rlel-tidydata/</link>
+      <link>https://jananiravi.github.io/talk/2018-rlel-tidydata/</link>
       <pubDate>Mon, 05 Nov 2018 18:00:00 -0500</pubDate>
       
-      <guid>/talk/2018-rlel-tidydata/</guid>
+      <guid>https://jananiravi.github.io/talk/2018-rlel-tidydata/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201811-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Workshop material: &lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181105-workshop-tidydata&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; • &lt;a href=&#34;https://bit.ly/rlel-20181105&#34; target=&#34;_blank&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
@@ -664,10 +664,10 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
     
     <item>
       <title>R-Ladies East Lansing | Workshop on Intro to Data Visualization w/ R</title>
-      <link>/talk/2018-rlel-dataviz/</link>
+      <link>https://jananiravi.github.io/talk/2018-rlel-dataviz/</link>
       <pubDate>Mon, 08 Oct 2018 18:00:00 -0400</pubDate>
       
-      <guid>/talk/2018-rlel-dataviz/</guid>
+      <guid>https://jananiravi.github.io/talk/2018-rlel-dataviz/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/blob/master/event-planning-promos/201810-Meetup-flyer.png?raw=true&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Workshop material: &lt;a href=&#34;https://github.com/rladies-eastlansing/meetup-presentations-eastlansing/tree/master/presentations/20181008-workshop-dataviz&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; • &lt;a href=&#34;https://drive.google.com/drive/folders/1tSrhZ_TymJfxeZbe8hAdtPjcmhoeAJls?usp=sharing&#34; target=&#34;_blank&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
@@ -676,19 +676,19 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
     
     <item>
       <title>Using computational appraches to understand host-pathogen biology</title>
-      <link>/talk/2018-ismb/</link>
+      <link>https://jananiravi.github.io/talk/2018-ismb/</link>
       <pubDate>Mon, 09 Jul 2018 15:50:00 -0400</pubDate>
       
-      <guid>/talk/2018-ismb/</guid>
+      <guid>https://jananiravi.github.io/talk/2018-ismb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Launching R-Ladies East Lansing!</title>
-      <link>/post/rlel-launch/rlel-launch/</link>
+      <link>https://jananiravi.github.io/post/rlel-launch/rlel-launch/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/rlel-launch/rlel-launch/</guid>
+      <guid>https://jananiravi.github.io/post/rlel-launch/rlel-launch/</guid>
       <description>
 
 
@@ -737,21 +737,11 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Modeler&#39;s Hippocratic Oath</title>
-      <link>/post/modelers-oath/modelers-hippocratic-oath/</link>
+      <link>https://jananiravi.github.io/post/modelers-oath/modelers-hippocratic-oath/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/modelers-oath/modelers-hippocratic-oath/</guid>
+      <guid>https://jananiravi.github.io/post/modelers-oath/modelers-hippocratic-oath/</guid>
       <description>
 
 &lt;p&gt;I recently came across the &lt;strong&gt;Modeler&amp;rsquo;s Hippocratic Oath&lt;/strong&gt; while reading &lt;a href=&#34;//twitter.com/mathbabedotorg&#34; target=&#34;_blank&#34;&gt;Cathy O&amp;rsquo;Neil&amp;rsquo;s&lt;/a&gt; &amp;lsquo;Weapons of Math Destruction&amp;rsquo;.&lt;/p&gt;
@@ -766,46 +756,46 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
 &lt;li&gt;I will never sacrifice reality for elegance without explaining why I have done so.&lt;/li&gt;
 &lt;li&gt;Nor will I give the people who use my model false comfort about its accuracy. Instead, I will make explicit its assumptions and oversights.&lt;/li&gt;
 &lt;li&gt;I understand that my work may have enormous effects on society and the economy, many of them beyond my comprehension.
-&lt;img src=&#34;/post/2018-05-24-modelers-hippocratic-oath-md_files/modelers_hippocratic_oath.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; height=&#34;300px&#34;/&gt;&lt;/li&gt;
+&lt;img src=&#34;https://jananiravi.github.io/post/2018-05-24-modelers-hippocratic-oath-md_files/modelers_hippocratic_oath.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; height=&#34;300px&#34;/&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>R-Ladies East Lansing</title>
-      <link>/projects/rladies-eastlansing/</link>
+      <link>https://jananiravi.github.io/projects/rladies-eastlansing/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>/projects/rladies-eastlansing/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;/tags/rladies&#34;&gt;R-Ladies East Lansing Posts &amp;amp; Workshops&lt;/a&gt;&lt;/p&gt;
+      <guid>https://jananiravi.github.io/projects/rladies-eastlansing/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://jananiravi.github.io/tags/rladies&#34;&gt;R-Ladies East Lansing Posts &amp;amp; Workshops&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/interests/rladies_files/rladies.jpeg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jananiravi.github.io/interests/rladies_files/rladies.jpeg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34;/&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Reading</title>
-      <link>/reading/</link>
+      <link>https://jananiravi.github.io/reading/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>/reading/</guid>
+      <guid>https://jananiravi.github.io/reading/</guid>
       <description>&lt;p&gt;Check out my &lt;a href=&#34;//goodreads.com/jananiravi&#34; target=&#34;_blank&#34;&gt;Goodreads&lt;/a&gt; profile for my latest reads and recommendations! :)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>/resources/</link>
+      <link>https://jananiravi.github.io/resources/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>/resources/</guid>
+      <guid>https://jananiravi.github.io/resources/</guid>
       <description>
 
-&lt;p&gt;My posts with some &lt;a href=&#34;/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;My posts with some &lt;a href=&#34;https://jananiravi.github.io/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler&amp;rsquo;s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler&amp;rsquo;s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;great-posts-academic&#34;&gt;Great posts | academic&lt;/h2&gt;
@@ -872,10 +862,10 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
     
     <item>
       <title>Useful Git/GitHub links</title>
-      <link>/post/git-links/git-github-links/</link>
+      <link>https://jananiravi.github.io/post/git-links/git-github-links/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/git-links/git-github-links/</guid>
+      <guid>https://jananiravi.github.io/post/git-links/git-github-links/</guid>
       <description>
 
 
@@ -883,7 +873,7 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
 &lt;h2&gt;See also:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/janani137/status/926516970920562688&#34;&gt;My tweet dated: 2017-03-11&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/interests/resources/&#34;&gt;Resources&lt;/a&gt; for more links related to Blogdown, Rmarkdown &amp;amp; GitHub&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/interests/resources/&#34;&gt;Resources&lt;/a&gt; for more links related to Blogdown, Rmarkdown &amp;amp; GitHub&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;git&#34; class=&#34;section level1&#34;&gt;
@@ -936,38 +926,38 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
     
     <item>
       <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
-      <link>/publication/psp-actino/anto/</link>
+      <link>https://jananiravi.github.io/publication/psp-actino/anto/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
       
-      <guid>/publication/psp-actino/anto/</guid>
+      <guid>https://jananiravi.github.io/publication/psp-actino/anto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2017: Year in Books | Goodreads</title>
-      <link>/post/goodreads-2017/goodreads-2017/</link>
+      <link>https://jananiravi.github.io/post/goodreads-2017/goodreads-2017/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/goodreads-2017/goodreads-2017/</guid>
+      <guid>https://jananiravi.github.io/post/goodreads-2017/goodreads-2017/</guid>
       <description>
 
 
 &lt;p&gt;Find my latest reads &amp;amp; recommendations on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;!&lt;/p&gt;
-&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2017/1671098&#34;&gt;2017: #MyYearInBooks Summary Stats&lt;/a&gt;&lt;/h3&gt;
+&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2017/1671098&#34;&gt;2017: #MyYearInBooks Summary Stats&lt;/a&gt;&lt;/h4&gt;
 &lt;/div&gt;
-&lt;div id=&#34;books-read&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2017-reads&#34;&gt;Books Read&lt;/a&gt;&lt;/h3&gt;
+&lt;div id=&#34;books-read&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2017-reads&#34;&gt;Books Read&lt;/a&gt;&lt;/h4&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Black Swan by Nassim Taleb</title>
-      <link>/post/black-swan/black-swan-nassim-taleb/</link>
+      <link>https://jananiravi.github.io/post/black-swan/black-swan-nassim-taleb/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/black-swan/black-swan-nassim-taleb/</guid>
+      <guid>https://jananiravi.github.io/post/black-swan/black-swan-nassim-taleb/</guid>
       <description>
 
 
@@ -1003,19 +993,19 @@ PS3. Epistemology studies the nature of knowledge, justification, and the ration
     
     <item>
       <title>Evolution and Conservation of the Psp Envelope Stress-Response System</title>
-      <link>/talk/2017-asm-tb/</link>
+      <link>https://jananiravi.github.io/talk/2017-asm-tb/</link>
       <pubDate>Mon, 03 Apr 2017 17:00:00 -0400</pubDate>
       
-      <guid>/talk/2017-asm-tb/</guid>
+      <guid>https://jananiravi.github.io/talk/2017-asm-tb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J1 visa waiver | How to obtain your NORI?</title>
-      <link>/post/j1-waiver/j1-visa-waiver-nori/</link>
+      <link>https://jananiravi.github.io/post/j1-waiver/j1-visa-waiver-nori/</link>
       <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/j1-waiver/j1-visa-waiver-nori/</guid>
+      <guid>https://jananiravi.github.io/post/j1-waiver/j1-visa-waiver-nori/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -1332,48 +1322,48 @@ St. Louis, MO 63101-1200&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>2015: Year in Books | Goodreads</title>
-      <link>/post/goodreads-2015/goodreads-2015/</link>
+      <link>https://jananiravi.github.io/post/goodreads-2015/goodreads-2015/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/goodreads-2015/goodreads-2015/</guid>
+      <guid>https://jananiravi.github.io/post/goodreads-2015/goodreads-2015/</guid>
       <description>
 
 
 &lt;p&gt;Find my latest reads &amp;amp; recommendations on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;!&lt;/p&gt;
-&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2015/1671098&#34;&gt;2015: #MyYearInBooks Summary Stats&lt;/a&gt; &lt;br&gt;&lt;/h3&gt;
+&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2015/1671098&#34;&gt;2015: #MyYearInBooks Summary Stats&lt;/a&gt; &lt;br&gt;&lt;/h4&gt;
 &lt;/div&gt;
-&lt;div id=&#34;books-read&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2015-reads&#34;&gt;Books Read&lt;/a&gt; &lt;br&gt;&lt;/h3&gt;
+&lt;div id=&#34;books-read&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2015-reads&#34;&gt;Books Read&lt;/a&gt; &lt;br&gt;&lt;/h4&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>2016: Year in Books | Goodreads</title>
-      <link>/post/goodreads-2016/goodreads-2016/</link>
+      <link>https://jananiravi.github.io/post/goodreads-2016/goodreads-2016/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/goodreads-2016/goodreads-2016/</guid>
+      <guid>https://jananiravi.github.io/post/goodreads-2016/goodreads-2016/</guid>
       <description>
 
 
 &lt;p&gt;Find my latest reads &amp;amp; recommendations on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;!&lt;/p&gt;
-&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2016/1671098&#34;&gt;2016: #MyYearInBooks Summary Stats&lt;/a&gt;&lt;/h3&gt;
+&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2016/1671098&#34;&gt;2016: #MyYearInBooks Summary Stats&lt;/a&gt;&lt;/h4&gt;
 &lt;/div&gt;
-&lt;div id=&#34;books-read&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2016-reads&#34;&gt;Books Read&lt;/a&gt;&lt;/h3&gt;
+&lt;div id=&#34;books-read&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2016-reads&#34;&gt;Books Read&lt;/a&gt;&lt;/h4&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Becoming Steve Jobs by Brent Schlender</title>
-      <link>/post/becoming-steve-jobs/becoming-steve-jobs/</link>
+      <link>https://jananiravi.github.io/post/becoming-steve-jobs/becoming-steve-jobs/</link>
       <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/becoming-steve-jobs/becoming-steve-jobs/</guid>
+      <guid>https://jananiravi.github.io/post/becoming-steve-jobs/becoming-steve-jobs/</guid>
       <description>
 
 
@@ -1384,19 +1374,19 @@ St. Louis, MO 63101-1200&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>Microbial Mechanosensing: Phage Shock Protein Response System in Gram-positive Bacteria</title>
-      <link>/talk/2016-asm/</link>
+      <link>https://jananiravi.github.io/talk/2016-asm/</link>
       <pubDate>Sat, 18 Jun 2016 14:45:00 -0400</pubDate>
       
-      <guid>/talk/2016-asm/</guid>
+      <guid>https://jananiravi.github.io/talk/2016-asm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matt Might&#39;s Blog</title>
-      <link>/post/mattmight/matt-might-blog/</link>
+      <link>https://jananiravi.github.io/post/mattmight/matt-might-blog/</link>
       <pubDate>Thu, 26 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/mattmight/matt-might-blog/</guid>
+      <guid>https://jananiravi.github.io/post/mattmight/matt-might-blog/</guid>
       <description>
 
 
@@ -1444,10 +1434,10 @@ He &amp;amp; his wife have spent a good part of their lives &lt;a href=&#34;http
     
     <item>
       <title>A dedication to Ramanujan</title>
-      <link>/post/ramanujan/ramanujan/</link>
+      <link>https://jananiravi.github.io/post/ramanujan/ramanujan/</link>
       <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/ramanujan/ramanujan/</guid>
+      <guid>https://jananiravi.github.io/post/ramanujan/ramanujan/</guid>
       <description>
 
 
@@ -1520,19 +1510,19 @@ He is also a fantastic and sincere communicator, teacher and author so much so t
     
     <item>
       <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title>
-      <link>/publication/sigfac-mtb/natcomm/</link>
+      <link>https://jananiravi.github.io/publication/sigfac-mtb/natcomm/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
       
-      <guid>/publication/sigfac-mtb/natcomm/</guid>
+      <guid>https://jananiravi.github.io/publication/sigfac-mtb/natcomm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TB &amp; Lipid metabolism</title>
-      <link>/projects/lipid-metabolism/</link>
+      <link>https://jananiravi.github.io/projects/lipid-metabolism/</link>
       <pubDate>Thu, 31 Dec 2015 00:00:00 -0500</pubDate>
       
-      <guid>/projects/lipid-metabolism/</guid>
+      <guid>https://jananiravi.github.io/projects/lipid-metabolism/</guid>
       <description>
 
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
@@ -1548,7 +1538,7 @@ He is also a fantastic and sincere communicator, teacher and author so much so t
 
 &lt;ul&gt;
 &lt;li&gt;Lipid Metabolism and TB, &lt;em&gt;in preparation&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/publication/2014/jimm&#34;&gt;Cutting edge: Vitamin D regulates lipid metabolism in &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt; infection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/publication/2014/jimm&#34;&gt;Cutting edge: Vitamin D regulates lipid metabolism in &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt; infection&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
@@ -1584,46 +1574,46 @@ He is also a fantastic and sincere communicator, teacher and author so much so t
     
     <item>
       <title>Stochastic nature of adipogenic and inflammatory responses in tuberculous macrophages</title>
-      <link>/talk/2015-rutgers-symp/</link>
+      <link>https://jananiravi.github.io/talk/2015-rutgers-symp/</link>
       <pubDate>Thu, 05 Nov 2015 11:45:00 -0500</pubDate>
       
-      <guid>/talk/2015-rutgers-symp/</guid>
+      <guid>https://jananiravi.github.io/talk/2015-rutgers-symp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
-      <link>/publication/psp-mtb/molmicro/</link>
+      <link>https://jananiravi.github.io/publication/psp-mtb/molmicro/</link>
       <pubDate>Mon, 03 Aug 2015 00:00:00 -0400</pubDate>
       
-      <guid>/publication/psp-mtb/molmicro/</guid>
+      <guid>https://jananiravi.github.io/publication/psp-mtb/molmicro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mathematical modeling of pathways involved in cell cycle regulation and Differentiation</title>
-      <link>/talk/2014-imsc/</link>
+      <link>https://jananiravi.github.io/talk/2014-imsc/</link>
       <pubDate>Fri, 31 Oct 2014 13:00:00 -0400</pubDate>
       
-      <guid>/talk/2014-imsc/</guid>
+      <guid>https://jananiravi.github.io/talk/2014-imsc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title>
-      <link>/publication/vitd/jimm/</link>
+      <link>https://jananiravi.github.io/publication/vitd/jimm/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 -0400</pubDate>
       
-      <guid>/publication/vitd/jimm/</guid>
+      <guid>https://jananiravi.github.io/publication/vitd/jimm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamical Systems &amp; Math Biology</title>
-      <link>/dynamical-systems/</link>
+      <link>https://jananiravi.github.io/dynamical-systems/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 -0500</pubDate>
       
-      <guid>/dynamical-systems/</guid>
+      <guid>https://jananiravi.github.io/dynamical-systems/</guid>
       <description>
 
 &lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
@@ -1681,46 +1671,46 @@ experimental results.&lt;/li&gt;
     
     <item>
       <title>Modeling the START transition in the budding yeast cell cycle</title>
-      <link>/talk/2011-cshl/</link>
+      <link>https://jananiravi.github.io/talk/2011-cshl/</link>
       <pubDate>Tue, 29 Mar 2011 18:00:00 -0400</pubDate>
       
-      <guid>/talk/2011-cshl/</guid>
+      <guid>https://jananiravi.github.io/talk/2011-cshl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling the START transition in the budding yeast cell cycle</title>
-      <link>/talk/2009-grc/</link>
+      <link>https://jananiravi.github.io/talk/2009-grc/</link>
       <pubDate>Sun, 05 Jul 2009 13:00:00 -0400</pubDate>
       
-      <guid>/talk/2009-grc/</guid>
+      <guid>https://jananiravi.github.io/talk/2009-grc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling the START transition and size control in budding yeast</title>
-      <link>/talk/2009-cshl/</link>
+      <link>https://jananiravi.github.io/talk/2009-cshl/</link>
       <pubDate>Tue, 24 Mar 2009 13:00:00 -0400</pubDate>
       
-      <guid>/talk/2009-cshl/</guid>
+      <guid>https://jananiravi.github.io/talk/2009-cshl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling the START transition and size control in budding yeast</title>
-      <link>/talk/2009-vt-symp/</link>
+      <link>https://jananiravi.github.io/talk/2009-vt-symp/</link>
       <pubDate>Sun, 01 Mar 2009 13:00:00 -0500</pubDate>
       
-      <guid>/talk/2009-vt-symp/</guid>
+      <guid>https://jananiravi.github.io/talk/2009-vt-symp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/example-slides/</link>
+      <link>https://jananiravi.github.io/slides/example-slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/slides/example-slides/</guid>
+      <guid>https://jananiravi.github.io/slides/example-slides/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;

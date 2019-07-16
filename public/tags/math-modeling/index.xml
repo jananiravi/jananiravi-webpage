@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>math-modeling on Janani Ravi</title>
-    <link>/tags/math-modeling/</link>
+    <link>https://jananiravi.github.io/tags/math-modeling/</link>
     <description>Recent content in math-modeling on Janani Ravi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Janani Ravi, 2019</copyright>
+    <copyright>&amp;copy; Janani Ravi, {year}</copyright>
     <lastBuildDate>Thu, 24 May 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/math-modeling/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jananiravi.github.io/tags/math-modeling/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Modeler&#39;s Hippocratic Oath</title>
-      <link>/post/modelers-oath/modelers-hippocratic-oath/</link>
+      <link>https://jananiravi.github.io/post/modelers-oath/modelers-hippocratic-oath/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/modelers-oath/modelers-hippocratic-oath/</guid>
+      <guid>https://jananiravi.github.io/post/modelers-oath/modelers-hippocratic-oath/</guid>
       <description>
 
 &lt;p&gt;I recently came across the &lt;strong&gt;Modeler&amp;rsquo;s Hippocratic Oath&lt;/strong&gt; while reading &lt;a href=&#34;//twitter.com/mathbabedotorg&#34; target=&#34;_blank&#34;&gt;Cathy O&amp;rsquo;Neil&amp;rsquo;s&lt;/a&gt; &amp;lsquo;Weapons of Math Destruction&amp;rsquo;.&lt;/p&gt;
@@ -32,17 +32,17 @@
 &lt;li&gt;I will never sacrifice reality for elegance without explaining why I have done so.&lt;/li&gt;
 &lt;li&gt;Nor will I give the people who use my model false comfort about its accuracy. Instead, I will make explicit its assumptions and oversights.&lt;/li&gt;
 &lt;li&gt;I understand that my work may have enormous effects on society and the economy, many of them beyond my comprehension.
-&lt;img src=&#34;/post/2018-05-24-modelers-hippocratic-oath-md_files/modelers_hippocratic_oath.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; height=&#34;300px&#34;/&gt;&lt;/li&gt;
+&lt;img src=&#34;https://jananiravi.github.io/post/2018-05-24-modelers-hippocratic-oath-md_files/modelers_hippocratic_oath.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; height=&#34;300px&#34;/&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>A dedication to Ramanujan</title>
-      <link>/post/ramanujan/ramanujan/</link>
+      <link>https://jananiravi.github.io/post/ramanujan/ramanujan/</link>
       <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/ramanujan/ramanujan/</guid>
+      <guid>https://jananiravi.github.io/post/ramanujan/ramanujan/</guid>
       <description>
 
 
@@ -115,19 +115,19 @@ He is also a fantastic and sincere communicator, teacher and author so much so t
     
     <item>
       <title>Mathematical modeling of pathways involved in cell cycle regulation and Differentiation</title>
-      <link>/talk/2014-imsc/</link>
+      <link>https://jananiravi.github.io/talk/2014-imsc/</link>
       <pubDate>Fri, 31 Oct 2014 13:00:00 -0400</pubDate>
       
-      <guid>/talk/2014-imsc/</guid>
+      <guid>https://jananiravi.github.io/talk/2014-imsc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamical Systems &amp; Math Biology</title>
-      <link>/dynamical-systems/</link>
+      <link>https://jananiravi.github.io/dynamical-systems/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 -0500</pubDate>
       
-      <guid>/dynamical-systems/</guid>
+      <guid>https://jananiravi.github.io/dynamical-systems/</guid>
       <description>
 
 &lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
@@ -185,37 +185,37 @@ experimental results.&lt;/li&gt;
     
     <item>
       <title>Modeling the START transition in the budding yeast cell cycle</title>
-      <link>/talk/2011-cshl/</link>
+      <link>https://jananiravi.github.io/talk/2011-cshl/</link>
       <pubDate>Tue, 29 Mar 2011 18:00:00 -0400</pubDate>
       
-      <guid>/talk/2011-cshl/</guid>
+      <guid>https://jananiravi.github.io/talk/2011-cshl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling the START transition in the budding yeast cell cycle</title>
-      <link>/talk/2009-grc/</link>
+      <link>https://jananiravi.github.io/talk/2009-grc/</link>
       <pubDate>Sun, 05 Jul 2009 13:00:00 -0400</pubDate>
       
-      <guid>/talk/2009-grc/</guid>
+      <guid>https://jananiravi.github.io/talk/2009-grc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling the START transition and size control in budding yeast</title>
-      <link>/talk/2009-cshl/</link>
+      <link>https://jananiravi.github.io/talk/2009-cshl/</link>
       <pubDate>Tue, 24 Mar 2009 13:00:00 -0400</pubDate>
       
-      <guid>/talk/2009-cshl/</guid>
+      <guid>https://jananiravi.github.io/talk/2009-cshl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling the START transition and size control in budding yeast</title>
-      <link>/talk/2009-vt-symp/</link>
+      <link>https://jananiravi.github.io/talk/2009-vt-symp/</link>
       <pubDate>Sun, 01 Mar 2009 13:00:00 -0500</pubDate>
       
-      <guid>/talk/2009-vt-symp/</guid>
+      <guid>https://jananiravi.github.io/talk/2009-vt-symp/</guid>
       <description></description>
     </item>
     

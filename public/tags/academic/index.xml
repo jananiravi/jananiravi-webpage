@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>academic on Janani Ravi</title>
-    <link>/tags/academic/</link>
+    <link>https://jananiravi.github.io/tags/academic/</link>
     <description>Recent content in academic on Janani Ravi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Janani Ravi, 2019</copyright>
+    <copyright>&amp;copy; Janani Ravi, {year}</copyright>
     <lastBuildDate>Wed, 13 Feb 2019 09:00:00 -0500</lastBuildDate>
     
-	    <atom:link href="/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jananiravi.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tidyverse workshop</title>
-      <link>/talk/2019-plb/</link>
+      <link>https://jananiravi.github.io/talk/2019-plb/</link>
       <pubDate>Wed, 13 Feb 2019 09:00:00 -0500</pubDate>
       
-      <guid>/talk/2019-plb/</guid>
+      <guid>https://jananiravi.github.io/talk/2019-plb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simple rules to make an effective scientific presentation</title>
-      <link>/talk/2019-cvm/</link>
+      <link>https://jananiravi.github.io/talk/2019-cvm/</link>
       <pubDate>Thu, 24 Jan 2019 12:00:00 -0500</pubDate>
       
-      <guid>/talk/2019-cvm/</guid>
+      <guid>https://jananiravi.github.io/talk/2019-cvm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Useful Resources</title>
-      <link>/post/useful-links/useful-resources/</link>
+      <link>https://jananiravi.github.io/post/useful-links/useful-resources/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/useful-links/useful-resources/</guid>
+      <guid>https://jananiravi.github.io/post/useful-links/useful-resources/</guid>
       <description>
 
 
-&lt;p&gt;&lt;em&gt;My posts with some &lt;a href=&#34;/categories/resources&#34;&gt;#useful-resources&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;My posts with some &lt;a href=&#34;https://jananiravi.github.io/categories/resources&#34;&gt;#useful-resources&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;div id=&#34;great-posts-academic&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Great posts | academic&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/&#34;&gt;The Awesomest 7-year Postdoc &lt;em&gt;by&lt;/em&gt; Radhika Nagpal | Scientific American&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2016/matt-might-blog/&#34;&gt;Matt Might’s Blog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler’s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2016/matt-might-blog/&#34;&gt;Matt Might’s Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler’s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;bioinformatics&#34; class=&#34;section level2&#34;&gt;
@@ -62,7 +62,7 @@
 &lt;div id=&#34;r&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;R&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/&#34;&gt;R resources&lt;/a&gt; &lt;em&gt;by&lt;/em&gt; &lt;a href=&#34;paulvanderlaken.com&#34;&gt;Paul Vanderlaken&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Related post: &lt;a href=&#34;https://paulvanderlaken.com/2018/05/21/r-tips-and-tricks/&#34;&gt;R Tips and Tricks&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -102,10 +102,10 @@
     
     <item>
       <title>Modeler&#39;s Hippocratic Oath</title>
-      <link>/post/modelers-oath/modelers-hippocratic-oath/</link>
+      <link>https://jananiravi.github.io/post/modelers-oath/modelers-hippocratic-oath/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/modelers-oath/modelers-hippocratic-oath/</guid>
+      <guid>https://jananiravi.github.io/post/modelers-oath/modelers-hippocratic-oath/</guid>
       <description>
 
 &lt;p&gt;I recently came across the &lt;strong&gt;Modeler&amp;rsquo;s Hippocratic Oath&lt;/strong&gt; while reading &lt;a href=&#34;//twitter.com/mathbabedotorg&#34; target=&#34;_blank&#34;&gt;Cathy O&amp;rsquo;Neil&amp;rsquo;s&lt;/a&gt; &amp;lsquo;Weapons of Math Destruction&amp;rsquo;.&lt;/p&gt;
@@ -120,24 +120,24 @@
 &lt;li&gt;I will never sacrifice reality for elegance without explaining why I have done so.&lt;/li&gt;
 &lt;li&gt;Nor will I give the people who use my model false comfort about its accuracy. Instead, I will make explicit its assumptions and oversights.&lt;/li&gt;
 &lt;li&gt;I understand that my work may have enormous effects on society and the economy, many of them beyond my comprehension.
-&lt;img src=&#34;/post/2018-05-24-modelers-hippocratic-oath-md_files/modelers_hippocratic_oath.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; height=&#34;300px&#34;/&gt;&lt;/li&gt;
+&lt;img src=&#34;https://jananiravi.github.io/post/2018-05-24-modelers-hippocratic-oath-md_files/modelers_hippocratic_oath.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; height=&#34;300px&#34;/&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>/resources/</link>
+      <link>https://jananiravi.github.io/resources/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>/resources/</guid>
+      <guid>https://jananiravi.github.io/resources/</guid>
       <description>
 
-&lt;p&gt;My posts with some &lt;a href=&#34;/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;My posts with some &lt;a href=&#34;https://jananiravi.github.io/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler&amp;rsquo;s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler&amp;rsquo;s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;great-posts-academic&#34;&gt;Great posts | academic&lt;/h2&gt;
@@ -204,10 +204,10 @@
     
     <item>
       <title>Matt Might&#39;s Blog</title>
-      <link>/post/mattmight/matt-might-blog/</link>
+      <link>https://jananiravi.github.io/post/mattmight/matt-might-blog/</link>
       <pubDate>Thu, 26 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/mattmight/matt-might-blog/</guid>
+      <guid>https://jananiravi.github.io/post/mattmight/matt-might-blog/</guid>
       <description>
 
 

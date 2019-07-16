@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blogs on Janani Ravi</title>
-    <link>/tags/blogs/</link>
+    <link>https://jananiravi.github.io/tags/blogs/</link>
     <description>Recent content in blogs on Janani Ravi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Janani Ravi, 2019</copyright>
+    <copyright>&amp;copy; Janani Ravi, {year}</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
     
-	    <atom:link href="/tags/blogs/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jananiravi.github.io/tags/blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2018: Year in Review | RLEL</title>
-      <link>/post/rlel-2018/rlel-2018/</link>
+      <link>https://jananiravi.github.io/post/rlel-2018/rlel-2018/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>/post/rlel-2018/rlel-2018/</guid>
+      <guid>https://jananiravi.github.io/post/rlel-2018/rlel-2018/</guid>
       <description>
 
 &lt;p&gt;Thanks to everyone who attended, participated or sponsored &lt;a href=&#34;https://rladies-eastlansing.github.io&#34; target=&#34;_blank&#34;&gt;R-Ladies East Lansing&lt;/a&gt; in 2018! We had a fantastic start &amp;amp; a very successful first 6mo &lt;a href=&#34;http://bit.ly/rlel-venue&#34; target=&#34;_blank&#34;&gt;on campus&lt;/a&gt;! We hosted 7 meetups since July 2018 including two very well-attended workshops (70+ attendees) and a DataViz challenge! Help us continue spreading the R &amp;amp; Data Science spirit across MSU in 2019! Contact us &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_blank&#34;&gt;eastlansing@rladies.org&lt;/a&gt; about co-hosting or sponsoring a meetup/workshop in Spring 2019. As always, R-Ladies events are open to all R-users across all levels of expertise including students, faculty and staff, and non-MSU folks.&lt;/p&gt;
@@ -36,7 +36,7 @@
 
 &lt;h2 id=&#34;2018-sponsors&#34;&gt;2018 Sponsors&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;/rlel-2018/index_files/rlel-sponsors-2018.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://jananiravi.github.io/rlel-2018/index_files/rlel-sponsors-2018.jpg&#34; alt=&#34;&#34; /&gt;
 Grand Traverse Pie (2018-12) | Business Analytics (2018-11) | SSDA (2018-10) |
 Krishnan Lab (2018-09) | College of Veterinary Medicine (2018-09) |
 BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
@@ -116,8 +116,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/2018-rlel-sponsors.png&#34; data-caption=&#34;2018: Meetup Sponsors&#34;&gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/2018-rlel-sponsors_hubce25919d144db2df6f7db803ac6af17_6917740_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/2018-rlel-sponsors.png&#34; data-caption=&#34;2018: Meetup Sponsors&#34;&gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/2018-rlel-sponsors_hubce25919d144db2df6f7db803ac6af17_6917740_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -127,8 +127,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/20180706-rlel-chicago.jpg&#34; &gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/20180706-rlel-chicago_hu42fc7509618802349aa988fbd7243a25_514640_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180706-rlel-chicago.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180706-rlel-chicago_hu42fc7509618802349aa988fbd7243a25_514640_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -138,8 +138,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/20180725-kickoff-activities.jpg&#34; &gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/20180725-kickoff-activities_hufb152286910be5f1f97a12c3ee9ba939_334772_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180725-kickoff-activities.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180725-kickoff-activities_hufb152286910be5f1f97a12c3ee9ba939_334772_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -151,8 +151,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/20180725-kickoff-group.jpg&#34; data-caption=&#34;July 2018: Kickoff meeting&#34;&gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/20180725-kickoff-group_hu58b28802711a3c8afea9155c7bae7e71_394797_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180725-kickoff-group.jpg&#34; data-caption=&#34;July 2018: Kickoff meeting&#34;&gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180725-kickoff-group_hu58b28802711a3c8afea9155c7bae7e71_394797_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -162,8 +162,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/20180813-collage.jpg&#34; &gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/20180813-collage_hu57bfde7ce0f63a8f2911579dde681ddf_813532_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180813-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180813-collage_hu57bfde7ce0f63a8f2911579dde681ddf_813532_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -173,8 +173,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/20180826-rladies-collage.jpg&#34; &gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/20180826-rladies-collage_hu4f1e9fea0b3fc71314fb730919eec33b_1109597_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180826-rladies-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180826-rladies-collage_hu4f1e9fea0b3fc71314fb730919eec33b_1109597_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -184,8 +184,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/20180910-collage.jpg&#34; &gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/20180910-collage_hu8e0f1e6eb80c4af61623ed9a1842f9f2_782112_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180910-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180910-collage_hu8e0f1e6eb80c4af61623ed9a1842f9f2_782112_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -195,8 +195,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/20180924-collage.jpg&#34; &gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/20180924-collage_hua01839f5a1afcaad4f452bacfbebc633_206950_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180924-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20180924-collage_hua01839f5a1afcaad4f452bacfbebc633_206950_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -206,8 +206,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/20181008-collage.jpg&#34; &gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/20181008-collage_hua99e81342a4312203de795a4b6c302ad_811467_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20181008-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20181008-collage_hua99e81342a4312203de795a4b6c302ad_811467_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -217,8 +217,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/20181105-collage.jpg&#34; &gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/20181105-collage_huf67a94b4b49f7252ca2125810aa6a32d_335840_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20181105-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20181105-collage_huf67a94b4b49f7252ca2125810aa6a32d_335840_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -228,8 +228,8 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/rlel-2018/rlel-2018/gallery/20181203-collage.jpg&#34; &gt;
-  &lt;img src=&#34;/post/rlel-2018/rlel-2018/gallery/20181203-collage_huca736b01f7059b1c46c063b99a96199f_1034725_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20181203-collage.jpg&#34; &gt;
+  &lt;img src=&#34;https://jananiravi.github.io/post/rlel-2018/rlel-2018/gallery/20181203-collage_huca736b01f7059b1c46c063b99a96199f_1034725_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -289,10 +289,10 @@ BEACON (2018-08) | iCER (2018-07)&lt;/p&gt;
     
     <item>
       <title>2019: RLEL Upcoming Events</title>
-      <link>/post/rlel-upcoming-2019/rlel-2019-upcoming/</link>
+      <link>https://jananiravi.github.io/post/rlel-upcoming-2019/rlel-2019-upcoming/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>/post/rlel-upcoming-2019/rlel-2019-upcoming/</guid>
+      <guid>https://jananiravi.github.io/post/rlel-upcoming-2019/rlel-2019-upcoming/</guid>
       <description>
 
 &lt;h2 id=&#34;a-little-background&#34;&gt;A little background&lt;/h2&gt;
@@ -418,20 +418,20 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
     
     <item>
       <title>Useful Resources</title>
-      <link>/post/useful-links/useful-resources/</link>
+      <link>https://jananiravi.github.io/post/useful-links/useful-resources/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/useful-links/useful-resources/</guid>
+      <guid>https://jananiravi.github.io/post/useful-links/useful-resources/</guid>
       <description>
 
 
-&lt;p&gt;&lt;em&gt;My posts with some &lt;a href=&#34;/categories/resources&#34;&gt;#useful-resources&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;My posts with some &lt;a href=&#34;https://jananiravi.github.io/categories/resources&#34;&gt;#useful-resources&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;div id=&#34;great-posts-academic&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Great posts | academic&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/&#34;&gt;The Awesomest 7-year Postdoc &lt;em&gt;by&lt;/em&gt; Radhika Nagpal | Scientific American&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2016/matt-might-blog/&#34;&gt;Matt Might’s Blog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler’s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2016/matt-might-blog/&#34;&gt;Matt Might’s Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler’s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;bioinformatics&#34; class=&#34;section level2&#34;&gt;
@@ -448,7 +448,7 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
 &lt;div id=&#34;r&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;R&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/&#34;&gt;R resources&lt;/a&gt; &lt;em&gt;by&lt;/em&gt; &lt;a href=&#34;paulvanderlaken.com&#34;&gt;Paul Vanderlaken&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Related post: &lt;a href=&#34;https://paulvanderlaken.com/2018/05/21/r-tips-and-tricks/&#34;&gt;R Tips and Tricks&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -488,10 +488,10 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
     
     <item>
       <title>Modeler&#39;s Hippocratic Oath</title>
-      <link>/post/modelers-oath/modelers-hippocratic-oath/</link>
+      <link>https://jananiravi.github.io/post/modelers-oath/modelers-hippocratic-oath/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/modelers-oath/modelers-hippocratic-oath/</guid>
+      <guid>https://jananiravi.github.io/post/modelers-oath/modelers-hippocratic-oath/</guid>
       <description>
 
 &lt;p&gt;I recently came across the &lt;strong&gt;Modeler&amp;rsquo;s Hippocratic Oath&lt;/strong&gt; while reading &lt;a href=&#34;//twitter.com/mathbabedotorg&#34; target=&#34;_blank&#34;&gt;Cathy O&amp;rsquo;Neil&amp;rsquo;s&lt;/a&gt; &amp;lsquo;Weapons of Math Destruction&amp;rsquo;.&lt;/p&gt;
@@ -506,46 +506,46 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
 &lt;li&gt;I will never sacrifice reality for elegance without explaining why I have done so.&lt;/li&gt;
 &lt;li&gt;Nor will I give the people who use my model false comfort about its accuracy. Instead, I will make explicit its assumptions and oversights.&lt;/li&gt;
 &lt;li&gt;I understand that my work may have enormous effects on society and the economy, many of them beyond my comprehension.
-&lt;img src=&#34;/post/2018-05-24-modelers-hippocratic-oath-md_files/modelers_hippocratic_oath.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; height=&#34;300px&#34;/&gt;&lt;/li&gt;
+&lt;img src=&#34;https://jananiravi.github.io/post/2018-05-24-modelers-hippocratic-oath-md_files/modelers_hippocratic_oath.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; height=&#34;300px&#34;/&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>R-Ladies East Lansing</title>
-      <link>/projects/rladies-eastlansing/</link>
+      <link>https://jananiravi.github.io/projects/rladies-eastlansing/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>/projects/rladies-eastlansing/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;/tags/rladies&#34;&gt;R-Ladies East Lansing Posts &amp;amp; Workshops&lt;/a&gt;&lt;/p&gt;
+      <guid>https://jananiravi.github.io/projects/rladies-eastlansing/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://jananiravi.github.io/tags/rladies&#34;&gt;R-Ladies East Lansing Posts &amp;amp; Workshops&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/interests/rladies_files/rladies.jpeg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jananiravi.github.io/interests/rladies_files/rladies.jpeg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34;/&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Reading</title>
-      <link>/reading/</link>
+      <link>https://jananiravi.github.io/reading/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>/reading/</guid>
+      <guid>https://jananiravi.github.io/reading/</guid>
       <description>&lt;p&gt;Check out my &lt;a href=&#34;//goodreads.com/jananiravi&#34; target=&#34;_blank&#34;&gt;Goodreads&lt;/a&gt; profile for my latest reads and recommendations! :)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>/resources/</link>
+      <link>https://jananiravi.github.io/resources/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>/resources/</guid>
+      <guid>https://jananiravi.github.io/resources/</guid>
       <description>
 
-&lt;p&gt;My posts with some &lt;a href=&#34;/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;My posts with some &lt;a href=&#34;https://jananiravi.github.io/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler&amp;rsquo;s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler&amp;rsquo;s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;great-posts-academic&#34;&gt;Great posts | academic&lt;/h2&gt;
@@ -612,10 +612,10 @@ Contact us: &lt;a href=&#34;mailto:eastlansing@rladies.org&#34; target=&#34;_bla
     
     <item>
       <title>Matt Might&#39;s Blog</title>
-      <link>/post/mattmight/matt-might-blog/</link>
+      <link>https://jananiravi.github.io/post/mattmight/matt-might-blog/</link>
       <pubDate>Thu, 26 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/mattmight/matt-might-blog/</guid>
+      <guid>https://jananiravi.github.io/post/mattmight/matt-might-blog/</guid>
       <description>
 
 

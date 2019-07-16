@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books-Blogs on Janani Ravi</title>
-    <link>/categories/books-blogs/</link>
+    <link>https://jananiravi.github.io/categories/books-blogs/</link>
     <description>Recent content in Books-Blogs on Janani Ravi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Janani Ravi, 2019</copyright>
+    <copyright>&amp;copy; Janani Ravi, {year}</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/categories/books-blogs/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jananiravi.github.io/categories/books-blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2018: Year in Books | Goodreads</title>
-      <link>/post/goodreads-2018/goodreads-2018/</link>
+      <link>https://jananiravi.github.io/post/goodreads-2018/goodreads-2018/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/goodreads-2018/goodreads-2018/</guid>
+      <guid>https://jananiravi.github.io/post/goodreads-2018/goodreads-2018/</guid>
       <description>
 
 
 &lt;p&gt;Find my latest reads &amp;amp; recommendations on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;!&lt;/p&gt;
-&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2018/1671098&#34;&gt;2018: #MyYearInBooks Summary Stats&lt;/a&gt;&lt;/h3&gt;
+&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2018/1671098&#34;&gt;2018: #MyYearInBooks Summary Stats&lt;/a&gt;&lt;/h4&gt;
 &lt;/div&gt;
-&lt;div id=&#34;book-read&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2018-reads&#34;&gt;Book Read&lt;/a&gt;&lt;/h3&gt;
+&lt;div id=&#34;book-read&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2018-reads&#34;&gt;Book Read&lt;/a&gt;&lt;/h4&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Modeler&#39;s Hippocratic Oath</title>
-      <link>/post/modelers-oath/modelers-hippocratic-oath/</link>
+      <link>https://jananiravi.github.io/post/modelers-oath/modelers-hippocratic-oath/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/modelers-oath/modelers-hippocratic-oath/</guid>
+      <guid>https://jananiravi.github.io/post/modelers-oath/modelers-hippocratic-oath/</guid>
       <description>
 
 &lt;p&gt;I recently came across the &lt;strong&gt;Modeler&amp;rsquo;s Hippocratic Oath&lt;/strong&gt; while reading &lt;a href=&#34;//twitter.com/mathbabedotorg&#34; target=&#34;_blank&#34;&gt;Cathy O&amp;rsquo;Neil&amp;rsquo;s&lt;/a&gt; &amp;lsquo;Weapons of Math Destruction&amp;rsquo;.&lt;/p&gt;
@@ -51,46 +51,46 @@
 &lt;li&gt;I will never sacrifice reality for elegance without explaining why I have done so.&lt;/li&gt;
 &lt;li&gt;Nor will I give the people who use my model false comfort about its accuracy. Instead, I will make explicit its assumptions and oversights.&lt;/li&gt;
 &lt;li&gt;I understand that my work may have enormous effects on society and the economy, many of them beyond my comprehension.
-&lt;img src=&#34;/post/2018-05-24-modelers-hippocratic-oath-md_files/modelers_hippocratic_oath.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; height=&#34;300px&#34;/&gt;&lt;/li&gt;
+&lt;img src=&#34;https://jananiravi.github.io/post/2018-05-24-modelers-hippocratic-oath-md_files/modelers_hippocratic_oath.jpg&#34; alt=&#34;&#34; width=&#34;300px&#34; height=&#34;300px&#34;/&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Reading</title>
-      <link>/reading/</link>
+      <link>https://jananiravi.github.io/reading/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>/reading/</guid>
+      <guid>https://jananiravi.github.io/reading/</guid>
       <description>&lt;p&gt;Check out my &lt;a href=&#34;//goodreads.com/jananiravi&#34; target=&#34;_blank&#34;&gt;Goodreads&lt;/a&gt; profile for my latest reads and recommendations! :)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>2017: Year in Books | Goodreads</title>
-      <link>/post/goodreads-2017/goodreads-2017/</link>
+      <link>https://jananiravi.github.io/post/goodreads-2017/goodreads-2017/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/goodreads-2017/goodreads-2017/</guid>
+      <guid>https://jananiravi.github.io/post/goodreads-2017/goodreads-2017/</guid>
       <description>
 
 
 &lt;p&gt;Find my latest reads &amp;amp; recommendations on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;!&lt;/p&gt;
-&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2017/1671098&#34;&gt;2017: #MyYearInBooks Summary Stats&lt;/a&gt;&lt;/h3&gt;
+&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2017/1671098&#34;&gt;2017: #MyYearInBooks Summary Stats&lt;/a&gt;&lt;/h4&gt;
 &lt;/div&gt;
-&lt;div id=&#34;books-read&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2017-reads&#34;&gt;Books Read&lt;/a&gt;&lt;/h3&gt;
+&lt;div id=&#34;books-read&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2017-reads&#34;&gt;Books Read&lt;/a&gt;&lt;/h4&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Black Swan by Nassim Taleb</title>
-      <link>/post/black-swan/black-swan-nassim-taleb/</link>
+      <link>https://jananiravi.github.io/post/black-swan/black-swan-nassim-taleb/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/black-swan/black-swan-nassim-taleb/</guid>
+      <guid>https://jananiravi.github.io/post/black-swan/black-swan-nassim-taleb/</guid>
       <description>
 
 
@@ -126,48 +126,48 @@ PS3. Epistemology studies the nature of knowledge, justification, and the ration
     
     <item>
       <title>2015: Year in Books | Goodreads</title>
-      <link>/post/goodreads-2015/goodreads-2015/</link>
+      <link>https://jananiravi.github.io/post/goodreads-2015/goodreads-2015/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/goodreads-2015/goodreads-2015/</guid>
+      <guid>https://jananiravi.github.io/post/goodreads-2015/goodreads-2015/</guid>
       <description>
 
 
 &lt;p&gt;Find my latest reads &amp;amp; recommendations on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;!&lt;/p&gt;
-&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2015/1671098&#34;&gt;2015: #MyYearInBooks Summary Stats&lt;/a&gt; &lt;br&gt;&lt;/h3&gt;
+&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2015/1671098&#34;&gt;2015: #MyYearInBooks Summary Stats&lt;/a&gt; &lt;br&gt;&lt;/h4&gt;
 &lt;/div&gt;
-&lt;div id=&#34;books-read&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2015-reads&#34;&gt;Books Read&lt;/a&gt; &lt;br&gt;&lt;/h3&gt;
+&lt;div id=&#34;books-read&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2015-reads&#34;&gt;Books Read&lt;/a&gt; &lt;br&gt;&lt;/h4&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>2016: Year in Books | Goodreads</title>
-      <link>/post/goodreads-2016/goodreads-2016/</link>
+      <link>https://jananiravi.github.io/post/goodreads-2016/goodreads-2016/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/goodreads-2016/goodreads-2016/</guid>
+      <guid>https://jananiravi.github.io/post/goodreads-2016/goodreads-2016/</guid>
       <description>
 
 
 &lt;p&gt;Find my latest reads &amp;amp; recommendations on &lt;a href=&#34;//goodreads.com/jananiravi&#34;&gt;Goodreads&lt;/a&gt;!&lt;/p&gt;
-&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2016/1671098&#34;&gt;2016: #MyYearInBooks Summary Stats&lt;/a&gt;&lt;/h3&gt;
+&lt;div id=&#34;myyearinbooks-summary-stats&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/user/year_in_books/2016/1671098&#34;&gt;2016: #MyYearInBooks Summary Stats&lt;/a&gt;&lt;/h4&gt;
 &lt;/div&gt;
-&lt;div id=&#34;books-read&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2016-reads&#34;&gt;Books Read&lt;/a&gt;&lt;/h3&gt;
+&lt;div id=&#34;books-read&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.goodreads.com/review/list/1671098-janani-ravi?shelf=2016-reads&#34;&gt;Books Read&lt;/a&gt;&lt;/h4&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Becoming Steve Jobs by Brent Schlender</title>
-      <link>/post/becoming-steve-jobs/becoming-steve-jobs/</link>
+      <link>https://jananiravi.github.io/post/becoming-steve-jobs/becoming-steve-jobs/</link>
       <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/becoming-steve-jobs/becoming-steve-jobs/</guid>
+      <guid>https://jananiravi.github.io/post/becoming-steve-jobs/becoming-steve-jobs/</guid>
       <description>
 
 
@@ -178,10 +178,10 @@ PS3. Epistemology studies the nature of knowledge, justification, and the ration
     
     <item>
       <title>Matt Might&#39;s Blog</title>
-      <link>/post/mattmight/matt-might-blog/</link>
+      <link>https://jananiravi.github.io/post/mattmight/matt-might-blog/</link>
       <pubDate>Thu, 26 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/mattmight/matt-might-blog/</guid>
+      <guid>https://jananiravi.github.io/post/mattmight/matt-might-blog/</guid>
       <description>
 
 
@@ -229,10 +229,10 @@ He &amp;amp; his wife have spent a good part of their lives &lt;a href=&#34;http
     
     <item>
       <title>A dedication to Ramanujan</title>
-      <link>/post/ramanujan/ramanujan/</link>
+      <link>https://jananiravi.github.io/post/ramanujan/ramanujan/</link>
       <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/ramanujan/ramanujan/</guid>
+      <guid>https://jananiravi.github.io/post/ramanujan/ramanujan/</guid>
       <description>
 
 

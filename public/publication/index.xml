@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Janani Ravi</title>
-    <link>/publication/</link>
+    <link>https://jananiravi.github.io/publication/</link>
     <description>Recent content in Publications on Janani Ravi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Janani Ravi, 2019</copyright>
+    <copyright>&amp;copy; Janani Ravi, {year}</copyright>
     <lastBuildDate>Tue, 27 Feb 2018 00:00:00 -0500</lastBuildDate>
     
-	    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jananiravi.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
-      <link>/publication/psp-actino/anto/</link>
+      <link>https://jananiravi.github.io/publication/psp-actino/anto/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
       
-      <guid>/publication/psp-actino/anto/</guid>
+      <guid>https://jananiravi.github.io/publication/psp-actino/anto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconstruction and topological characterization of the sigma factor regulatory network of Mycobacterium tuberculosis</title>
-      <link>/publication/sigfac-mtb/natcomm/</link>
+      <link>https://jananiravi.github.io/publication/sigfac-mtb/natcomm/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
       
-      <guid>/publication/sigfac-mtb/natcomm/</guid>
+      <guid>https://jananiravi.github.io/publication/sigfac-mtb/natcomm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
-      <link>/publication/psp-mtb/molmicro/</link>
+      <link>https://jananiravi.github.io/publication/psp-mtb/molmicro/</link>
       <pubDate>Mon, 03 Aug 2015 00:00:00 -0400</pubDate>
       
-      <guid>/publication/psp-mtb/molmicro/</guid>
+      <guid>https://jananiravi.github.io/publication/psp-mtb/molmicro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cutting edge: Vitamin D regulates lipid metabolism in Mycobacterium tuberculosis infection</title>
-      <link>/publication/vitd/jimm/</link>
+      <link>https://jananiravi.github.io/publication/vitd/jimm/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 -0400</pubDate>
       
-      <guid>/publication/vitd/jimm/</guid>
+      <guid>https://jananiravi.github.io/publication/vitd/jimm/</guid>
       <description></description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>phylogeny-evolution on Janani Ravi</title>
-    <link>/tags/phylogeny-evolution/</link>
+    <link>https://jananiravi.github.io/tags/phylogeny-evolution/</link>
     <description>Recent content in phylogeny-evolution on Janani Ravi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Janani Ravi, 2019</copyright>
+    <copyright>&amp;copy; Janani Ravi, {year}</copyright>
     <lastBuildDate>Tue, 15 Jan 2019 00:00:00 -0500</lastBuildDate>
     
-	    <atom:link href="/tags/phylogeny-evolution/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jananiravi.github.io/tags/phylogeny-evolution/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Join us!</title>
-      <link>/joinus/</link>
+      <link>https://jananiravi.github.io/joinus/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>/joinus/</guid>
+      <guid>https://jananiravi.github.io/joinus/</guid>
       <description>
 
 &lt;h1 id=&#34;open-positions&#34;&gt;Open positions&lt;/h1&gt;
@@ -53,10 +53,10 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
     
     <item>
       <title>Bacterial Stress Response</title>
-      <link>/projects/stress-response/</link>
+      <link>https://jananiravi.github.io/projects/stress-response/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 -0500</pubDate>
       
-      <guid>/projects/stress-response/</guid>
+      <guid>https://jananiravi.github.io/projects/stress-response/</guid>
       <description>
 
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
@@ -73,9 +73,9 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
 
 &lt;ul&gt;
 &lt;li&gt;The evolution, conservation, and covariation of the Psp envelope-stress-response system across the tree of life, &lt;em&gt;in preparation.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/publication/2018/anto&#34;&gt;Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/publication/2015/molmicro&#34;&gt;The Psp system of &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt; integrates envelope stress-sensing and envelope-preserving functions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/publication/2016/natcomm&#34;&gt;Reconstruction and topological characterization of the sigma factor regulatory network of &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/publication/2018/anto&#34;&gt;Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/publication/2015/molmicro&#34;&gt;The Psp system of &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt; integrates envelope stress-sensing and envelope-preserving functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/publication/2016/natcomm&#34;&gt;Reconstruction and topological characterization of the sigma factor regulatory network of &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
@@ -114,46 +114,46 @@ Please send me your latest CV and a cover letter that includes i) a summary of y
     
     <item>
       <title>Using computational appraches to understand host-pathogen biology</title>
-      <link>/talk/2018-ismb/</link>
+      <link>https://jananiravi.github.io/talk/2018-ismb/</link>
       <pubDate>Mon, 09 Jul 2018 15:50:00 -0400</pubDate>
       
-      <guid>/talk/2018-ismb/</guid>
+      <guid>https://jananiravi.github.io/talk/2018-ismb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variations on a theme: evolution of the phage-shock-protein system in Actinobacteria</title>
-      <link>/publication/psp-actino/anto/</link>
+      <link>https://jananiravi.github.io/publication/psp-actino/anto/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
       
-      <guid>/publication/psp-actino/anto/</guid>
+      <guid>https://jananiravi.github.io/publication/psp-actino/anto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolution and Conservation of the Psp Envelope Stress-Response System</title>
-      <link>/talk/2017-asm-tb/</link>
+      <link>https://jananiravi.github.io/talk/2017-asm-tb/</link>
       <pubDate>Mon, 03 Apr 2017 17:00:00 -0400</pubDate>
       
-      <guid>/talk/2017-asm-tb/</guid>
+      <guid>https://jananiravi.github.io/talk/2017-asm-tb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microbial Mechanosensing: Phage Shock Protein Response System in Gram-positive Bacteria</title>
-      <link>/talk/2016-asm/</link>
+      <link>https://jananiravi.github.io/talk/2016-asm/</link>
       <pubDate>Sat, 18 Jun 2016 14:45:00 -0400</pubDate>
       
-      <guid>/talk/2016-asm/</guid>
+      <guid>https://jananiravi.github.io/talk/2016-asm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Psp system of Mycobacterium tuberculosis integrates envelope stress-sensing and envelope-preserving functions</title>
-      <link>/publication/psp-mtb/molmicro/</link>
+      <link>https://jananiravi.github.io/publication/psp-mtb/molmicro/</link>
       <pubDate>Mon, 03 Aug 2015 00:00:00 -0400</pubDate>
       
-      <guid>/publication/psp-mtb/molmicro/</guid>
+      <guid>https://jananiravi.github.io/publication/psp-mtb/molmicro/</guid>
       <description></description>
     </item>
     

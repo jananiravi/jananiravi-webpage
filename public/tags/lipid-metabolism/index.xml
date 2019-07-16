@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lipid-metabolism on Janani Ravi</title>
-    <link>/tags/lipid-metabolism/</link>
+    <link>https://jananiravi.github.io/tags/lipid-metabolism/</link>
     <description>Recent content in lipid-metabolism on Janani Ravi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Janani Ravi, 2019</copyright>
+    <copyright>&amp;copy; Janani Ravi, {year}</copyright>
     <lastBuildDate>Thu, 31 Dec 2015 00:00:00 -0500</lastBuildDate>
     
-	    <atom:link href="/tags/lipid-metabolism/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jananiravi.github.io/tags/lipid-metabolism/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>TB &amp; Lipid metabolism</title>
-      <link>/projects/lipid-metabolism/</link>
+      <link>https://jananiravi.github.io/projects/lipid-metabolism/</link>
       <pubDate>Thu, 31 Dec 2015 00:00:00 -0500</pubDate>
       
-      <guid>/projects/lipid-metabolism/</guid>
+      <guid>https://jananiravi.github.io/projects/lipid-metabolism/</guid>
       <description>
 
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
@@ -33,7 +33,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;Lipid Metabolism and TB, &lt;em&gt;in preparation&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/publication/2014/jimm&#34;&gt;Cutting edge: Vitamin D regulates lipid metabolism in &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt; infection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/publication/2014/jimm&#34;&gt;Cutting edge: Vitamin D regulates lipid metabolism in &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt; infection&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
@@ -69,10 +69,10 @@
     
     <item>
       <title>Stochastic nature of adipogenic and inflammatory responses in tuberculous macrophages</title>
-      <link>/talk/2015-rutgers-symp/</link>
+      <link>https://jananiravi.github.io/talk/2015-rutgers-symp/</link>
       <pubDate>Thu, 05 Nov 2015 11:45:00 -0500</pubDate>
       
-      <guid>/talk/2015-rutgers-symp/</guid>
+      <guid>https://jananiravi.github.io/talk/2015-rutgers-symp/</guid>
       <description></description>
     </item>
     

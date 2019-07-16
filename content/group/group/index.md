@@ -75,9 +75,9 @@ Michigan State University. <br>
 ## 
 |  | |
 |-----|-----|
-|<img align="left" src="/img/laurensosinski.jpg" width="100"/>| Lauren Sosinski <br>  Majors: Biochemistry & Biotechnology; Genomics and Molecular Genetics; Minor: CMSE <br> [GitHub](https://github.com/sosinsk7); [Twitter](https://twitter.com/sosinsk7)|
 |<img align="left" src="/img/philipcalhoun.png" width="100"/>| Philip Calhoun <br> Human Biology (pre-med) <br> Drew Scholar; Honors College; Dean's List; SROP fellowship <br> [GitHub](https://github.com/calhou67); [Twitter](https://twitter.com/PhilipCalhoun5)|
 |<img align="left" src="/img/samuelchen.png" width="100"/>| Samuel Chen <br> Computer Science Engineering <br> Honors College; Dean's List; State Scholarship <br> [GitHub](https://github.com/samuel19chen) |
+|<img align="left" src="/img/laurensosinski.jpg" width="100"/>| Lauren Sosinski <br>  Majors: Biochemistry & Biotechnology; Genomics and Molecular Genetics; Minor: CMSE <br> [GitHub](https://github.com/sosinsk7); [Twitter](https://twitter.com/sosinsk7)|
 |<img align="left" src="/img/phoebetuyishime.jpg" width="100"/>| Phoebe Tuyishime <br> Major: Nutritional Sciences; Minor: Global Public Health & Epidemiology <br> Mastercard Foundation Scholar; Justin S. Morrill Leadership Fellow; <br> Food and Nutrition Database Research Center, UG Teaching Assistant. <br> [GitHub](https://github.com/tuyishi1); [Twitter](https://twitter.com/tuyishimephoebe); [Webpage](https://www.canr.msu.edu/people/phoebe-tuyishime)|
 
 ### [Join Us](/joinus)!

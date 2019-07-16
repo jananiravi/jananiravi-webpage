@@ -9,7 +9,7 @@ date_end = 2016-06-18T15:00:00
 all_day = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["*Janani Ravi*", "V Anantharaman", "L Aravind", "ML Gennaro"]
+authors = ["Janani Ravi", "Vivek Anantharaman", "L Aravind Iyer", "Maria L Gennaro"]
 
 # Abstract and optional shortened version.
 abstract = ""

@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>refs on Janani Ravi</title>
-    <link>/tags/refs/</link>
+    <link>https://jananiravi.github.io/tags/refs/</link>
     <description>Recent content in refs on Janani Ravi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Janani Ravi, 2019</copyright>
+    <copyright>&amp;copy; Janani Ravi, {year}</copyright>
     <lastBuildDate>Thu, 24 Jan 2019 12:00:00 -0500</lastBuildDate>
     
-	    <atom:link href="/tags/refs/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jananiravi.github.io/tags/refs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Simple rules to make an effective scientific presentation</title>
-      <link>/talk/2019-cvm/</link>
+      <link>https://jananiravi.github.io/talk/2019-cvm/</link>
       <pubDate>Thu, 24 Jan 2019 12:00:00 -0500</pubDate>
       
-      <guid>/talk/2019-cvm/</guid>
+      <guid>https://jananiravi.github.io/talk/2019-cvm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Useful Resources</title>
-      <link>/post/useful-links/useful-resources/</link>
+      <link>https://jananiravi.github.io/post/useful-links/useful-resources/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/useful-links/useful-resources/</guid>
+      <guid>https://jananiravi.github.io/post/useful-links/useful-resources/</guid>
       <description>
 
 
-&lt;p&gt;&lt;em&gt;My posts with some &lt;a href=&#34;/categories/resources&#34;&gt;#useful-resources&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;My posts with some &lt;a href=&#34;https://jananiravi.github.io/categories/resources&#34;&gt;#useful-resources&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;div id=&#34;great-posts-academic&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Great posts | academic&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/&#34;&gt;The Awesomest 7-year Postdoc &lt;em&gt;by&lt;/em&gt; Radhika Nagpal | Scientific American&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2016/matt-might-blog/&#34;&gt;Matt Might’s Blog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler’s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2016/matt-might-blog/&#34;&gt;Matt Might’s Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler’s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;bioinformatics&#34; class=&#34;section level2&#34;&gt;
@@ -53,7 +53,7 @@
 &lt;div id=&#34;r&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;R&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/&#34;&gt;R resources&lt;/a&gt; &lt;em&gt;by&lt;/em&gt; &lt;a href=&#34;paulvanderlaken.com&#34;&gt;Paul Vanderlaken&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Related post: &lt;a href=&#34;https://paulvanderlaken.com/2018/05/21/r-tips-and-tricks/&#34;&gt;R Tips and Tricks&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -93,17 +93,17 @@
     
     <item>
       <title>Resources</title>
-      <link>/resources/</link>
+      <link>https://jananiravi.github.io/resources/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>/resources/</guid>
+      <guid>https://jananiravi.github.io/resources/</guid>
       <description>
 
-&lt;p&gt;My posts with some &lt;a href=&#34;/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;My posts with some &lt;a href=&#34;https://jananiravi.github.io/categories/resources&#34;&gt;useful resources&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler&amp;rsquo;s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/git-github-links&#34;&gt;Git, GitHub and R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/post/2018/modelers-hippocratic-oath&#34;&gt;Modeler&amp;rsquo;s Hippocratic oath&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;great-posts-academic&#34;&gt;Great posts | academic&lt;/h2&gt;
@@ -170,10 +170,10 @@
     
     <item>
       <title>Useful Git/GitHub links</title>
-      <link>/post/git-links/git-github-links/</link>
+      <link>https://jananiravi.github.io/post/git-links/git-github-links/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/git-links/git-github-links/</guid>
+      <guid>https://jananiravi.github.io/post/git-links/git-github-links/</guid>
       <description>
 
 
@@ -181,7 +181,7 @@
 &lt;h2&gt;See also:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/janani137/status/926516970920562688&#34;&gt;My tweet dated: 2017-03-11&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/interests/resources/&#34;&gt;Resources&lt;/a&gt; for more links related to Blogdown, Rmarkdown &amp;amp; GitHub&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jananiravi.github.io/interests/resources/&#34;&gt;Resources&lt;/a&gt; for more links related to Blogdown, Rmarkdown &amp;amp; GitHub&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;git&#34; class=&#34;section level1&#34;&gt;
@@ -234,10 +234,10 @@
     
     <item>
       <title>J1 visa waiver | How to obtain your NORI?</title>
-      <link>/post/j1-waiver/j1-visa-waiver-nori/</link>
+      <link>https://jananiravi.github.io/post/j1-waiver/j1-visa-waiver-nori/</link>
       <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/j1-waiver/j1-visa-waiver-nori/</guid>
+      <guid>https://jananiravi.github.io/post/j1-waiver/j1-visa-waiver-nori/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
